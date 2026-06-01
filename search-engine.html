@@ -138,9 +138,6 @@ body{font-family:-apple-system,'Segoe UI',sans-serif;background:var(--bg);color:
     <div class="modal-prompt" id="modalPrompt"></div>
     <div class="modal-actions">
       <button class="btn-copy-lg" id="modalCopyBtn">📋 复制提示词</button>
-      <a id="modalGithubLink" href="#" target="_blank" rel="noopener" class="btn-view" style="text-decoration:none;display:inline-flex;align-items:center;gap:5px;">
-        🔗 查看原始来源
-      </a>
       <button class="btn-view" onclick="closeModal()">关闭</button>
     </div>
     <div id="modalSource" style="font-size:11px;color:var(--text2);margin-top:10px;text-align:center;opacity:.7;"></div>
@@ -479,14 +476,7 @@ function openModalById(id, mode){
   document.getElementById('modalCopyBtn').onclick = function(){ copyText(prompt, this); };
 
   // Source attribution
-  var githubLink = document.getElementById('modalGithubLink');
   var sourceDiv = document.getElementById('modalSource');
-  if(item.githubUrl){
-    githubLink.href = item.githubUrl;
-    githubLink.style.display = 'inline-flex';
-  } else {
-    githubLink.style.display = 'none';
-  }
   if(item.sourceLabel || item.sourceUrl || item.feishu){
     var srcHtml = '';
     if(item.sourceUrl){
