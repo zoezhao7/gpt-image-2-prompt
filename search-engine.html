@@ -124,7 +124,7 @@ body{font-family:-apple-system,'Segoe UI',sans-serif;background:var(--bg);color:
   <div class="grid" id="grid"></div>
   <div class="pagination" id="pagination"></div>
   <div style="text-align:center;padding:16px 0 32px;font-size:11px;color:var(--text2);opacity:.6;">
-    数据来源：<a href="https://github.com/freestylefly/awesome-gpt-image-2/tree/main" target="_blank" rel="noopener" style="color:inherit;">freestylefly/awesome-gpt-image-2</a> · <span>飞书100组Prompt合集</span>
+    部分数据来源：<a href="https://github.com/freestylefly/awesome-gpt-image-2/tree/main" target="_blank" rel="noopener" style="color:inherit;">freestylefly/awesome-gpt-image-2</a>
   </div>
 </div>
 
@@ -496,14 +496,15 @@ function openModalById(id, mode){
       srcHtml += '来源：' + escHtml(item.sourceLabel);
     }
     if(item.feishu){
-      srcHtml += (srcHtml ? ' · ' : '来源：') + '飞书100组Prompt合集';
+      // feishu source - just show source label, no separate attribution
+      if(!srcHtml) srcHtml = '来源：飞书Prompt合集';
     } else {
-      srcHtml += (srcHtml ? ' · ' : '') + '数据来源：<a href="https://github.com/freestylefly/awesome-gpt-image-2/tree/main" target="_blank" rel="noopener" style="color:inherit;">freestylefly/awesome-gpt-image-2</a>';
+      srcHtml += (srcHtml ? ' · ' : '') + '部分数据来源：<a href="https://github.com/freestylefly/awesome-gpt-image-2/tree/main" target="_blank" rel="noopener" style="color:inherit;">freestylefly/awesome-gpt-image-2</a>';
     }
     sourceDiv.innerHTML = srcHtml;
     sourceDiv.style.display = 'block';
   } else {
-    sourceDiv.innerHTML = '数据来源：<a href="https://github.com/freestylefly/awesome-gpt-image-2/tree/main" target="_blank" rel="noopener" style="color:inherit;">freestylefly/awesome-gpt-image-2</a>';
+    sourceDiv.innerHTML = '部分数据来源：<a href="https://github.com/freestylefly/awesome-gpt-image-2/tree/main" target="_blank" rel="noopener" style="color:inherit;">freestylefly/awesome-gpt-image-2</a>';
     sourceDiv.style.display = 'block';
   }
 
