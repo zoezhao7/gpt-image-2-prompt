@@ -1,1 +1,1487 @@
-[]
+[
+  {
+    "id": 1001,
+    "title": "室内棚拍\\-烟雾缭绕\\(Vol:1\\)",
+    "category": "人像写真",
+    "prompt": "Close-up portrait of a handsome charismatic East Asian man in a charcoal wool suit and black tie, intense gaze at the camera, exhaling delicate wispy smoke trails from lips, messy textured black hair with slight sheen, sharp jawline and high cheekbones, deep burgundy studio background, Rembrandt lighting with dramatic shadows, hyper-realistic skin texture and visible pores, shot on 85mm lens, f/1.8, cinematic film grain, 90s fashion editorial style, high contrast, moody atmosphere --ar 3:4 --v 6.0",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1002,
+    "title": "机车之魂\\(Vol:2\\)",
+    "category": "人像写真",
+    "prompt": "Subject: A professional motorcycle racer in a red and blue racing suit, wearing a white aerodynamic helmet, leaning aggressively into a sharp turn on a superbike, knee dragging on the asphalt.Environment: Dense white tire smoke billowing from the rear wheel, grey race track background, layered composition with a close-up portrait of the rider overlaying the scene.Details: Sponsored decals \"ZXMOTO\", \"Si Anelli\", vibrant red and blue livery, carbon fiber textures, glowing brake discs, realistic leather creases.Technical: Shot on Sony A1, 70-200mm lens, f/2.8, high speed shutter, crisp details, hyper-realistic, volumetric fog, octane render style, dramatic studio lighting.Parameters: --ar 2:3 --v 6.0 (or Flux.1)",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1003,
+    "title": "城市地标留影\\(Vol:2\\)",
+    "category": "人像写真",
+    "prompt": "A hyper-realistic portrait of an athletic Asian man around 35 years old, standing at the bottom of a stairway framed between tall concrete walls, with the iconic Guangzhou Tower rising sharply in the background. He wears a fitted short-sleeve black t-shirt and casual trousers. His posture is upright and confident, muscles subtly defined under the fabric. He turns his head slightly toward the camera with a calm yet powerful expression, his skin softly illuminated by natural light. The atmosphere is cinematic and urban, blending modern architecture with the vibrant landmark. Frame size 4:5.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1004,
+    "title": "海滩高角度自拍\\(Vol:3\\)",
+    "category": "人像写真",
+    "prompt": "Ultra-realistic smartphone selfie of an adult woman on a bright beach, shot from a raisedfront-camera angle slightly above the face. Natural 24mm-equivalent wide-angle geometry,believable smartphone depth rendering, realistic facial proportions, visible skin texture, finepores, soft peach fuzz, natural lip texture, and clean daylight highlights without beauty-filtersmoothing. Pale platinum hair in two tight braids, calm direct gaze into the lens, one handshielding sunlight. Bright late-morning coastal light around 5500K, white sand bounce filling theshadows from below, soft horizon in the background, subtle grains of sand catching light, cleanmodern phone-camera color science, slightly elevated exposure, controlled highlights, natural skintone, no cinematic teal-orange grading, no plastic skin, no doll-like eyes, no warped hands, noartificial blur, no text, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1005,
+    "title": "东方女性骑楼街拍人像\\(Vol:3.2\\)",
+    "category": "人像写真",
+    "prompt": "Documentary-style street portrait of an adult Taiwanese woman under a real Taiwan arcade withtiled pavement, scooters, faded storefront signs, and everyday urban details. Soft side daylightentering from the street edge, believable shadow falloff, natural candid posture capturedmid-step, not looking directly at camera. Realistic skin with visible pores, under-eye detail,tiny imperfections, subtle skin sheen, long dark brown hair with natural baby hairs and a fewloose strands moved by light wind. Clean framing focused on face and eyes while preserving enoughenvironment to feel lived-in. Neutral color science, realistic proportions, phone-photoauthenticity mixed with premium full-frame clarity, no beauty retouching, no AI-smooth skin, noover-sharpening, no fake bokeh cutout, no text, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1006,
+    "title": "韩系偶像九宫格写真\\(Vol:3.9\\)",
+    "category": "人像写真",
+    "prompt": "Vertical 3x3 collage of nine portraits featuring the same adult Korean female idol with perfectidentity consistency across all frames. Minimal studio or quiet indoor setting, soft diffusednatural light, gentle highlights, airy low-contrast mood, slight film softness. Long dark hairconsistent in shape and texture, clean minimal makeup, natural skin texture without retouching,cohesive white-and-neutral outfit across all nine images. Each panel has a distinct pose: relaxedstanding, mid-motion glance, soft side angle, upward thoughtful look, close-up smile, turningcandid frame, seated casual pose, over-shoulder look, playful near-camera frame. Keep framingvaried but coherent, preserve realistic anatomy and matching facial features in every panel, noduplicate poses, no warped hands, no text errors, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1007,
+    "title": "室内棚拍婚纱\\(Vol:4\\)",
+    "category": "人像写真",
+    "prompt": "An artistic, moody Korean wedding portrait of a couple in a dark studio. The bride is wearing a simple, sleek satin slip dress. The groom is in a black turtleneck and tailored trousers. They are embraced, with only their profiles visible. Dramatic, focused studio lighting creates a silhouette effect and beautiful highlights on their faces and clothing, with a spotlight on the bride's hand holding a single rose. The background is dark and indistinct. High contrast, emotive, and poetic. Shot with a Sony A7R IV with a 50mm f/1.4 lens. Dark and moody color grading, high detail in shadows..",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1008,
+    "title": "韩系偶像九宫格写真\\(Vol:3.9\\)",
+    "category": "人像写真",
+    "prompt": "Vertical 3x3 collage of nine portraits featuring the same adult Korean female idol with perfectidentity consistency across all frames. Minimal studio or quiet indoor setting, soft diffusednatural light, gentle highlights, airy low-contrast mood, slight film softness. Long dark hairconsistent in shape and texture, clean minimal makeup, natural skin texture without retouching,cohesive white-and-neutral outfit across all nine images. Each panel has a distinct pose: relaxedstanding, mid-motion glance, soft side angle, upward thoughtful look, close-up smile, turningcandid frame, seated casual pose, over-shoulder look, playful near-camera frame. Keep framingvaried but coherent, preserve realistic anatomy and matching facial features in every panel, noduplicate poses, no warped hands, no text errors, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1009,
+    "title": "窗边日系空气感全身人像",
+    "category": "人像写真",
+    "prompt": "Analog 35mm-inspired full-body portrait of an adult East Asian woman near a bright window withwhite curtains and a clean pale wall. Soft diffused natural window light, slight overexposure inhighlights, pastel low-saturation palette, subtle film grain, airy Japanese editorial mood.Oversized white button-up shirt, casual shorts, barefoot, relaxed posture with arms loose at thesides, gentle soft smile, slightly messy dark hair, realistic skin texture, natural makeup, quieteveryday atmosphere. Eye-level framing from mid-thigh to head with generous breathing room, noglamour retouching, no plastic skin, no exaggerated posing, no harsh contrast, no watermark, notext.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1010,
+    "title": "城市金色时刻时尚街拍",
+    "category": "人像写真",
+    "prompt": "Hyper-realistic fashion photograph of an adult woman in a modern city center during golden hour.She leans casually against a traffic light pole, unaware of the camera, captured like an expensiveeditorial candid. Warm low-angle sunlight wrapping the silhouette and hair, soft cinematiccontrast, urban background with strong bokeh and believable traffic details. Brown suede croppedjacket with shearling collar, dark minimal top, blue jeans, brown boots, long voluminouslight-brown curls in motion, lightly sun-kissed skin with visible pores and realistic highlights.Shot on a full-frame camera with an 85mm lens look, shallow depth of field, premium color grading,realistic body proportions, no over-sculpted face, no extra fingers, no text, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1011,
+    "title": "复古巴士旅行时尚照",
+    "category": "人像写真",
+    "prompt": "Editorial travel portrait of an adult woman sitting on the front edge of a weathered vintage bus.Long red trench coat, knitted beanie, round blue reflective sunglasses, layered necklaces, ruggedbrown leather boots, wavy blonde hair, dreamy upward gaze. Clear blue sky, minimal urban backdrop,soft daylight, cinematic color grade, subtle nostalgic film texture, realistic fabric folds andpeeling paint on the bus in turquoise and rust tones. Medium-wide composition with strong subjectisolation, natural skin texture, sharp focus on the subject, shallow depth of field in theenvironment, no cartoon look, no distorted limbs, no text, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1012,
+    "title": "极简红橘渐层男性肖像",
+    "category": "人像写真",
+    "prompt": "Cinematic minimal portrait of an adult man standing alone in an intense orange-to-red gradientenvironment. Strong silhouette edge lighting, deep shadow contrast, glossy reflective floor,centered symmetrical composition, quiet monumental presence. Keep the wardrobe simple and dark sothe color field dominates. Emphasize sculptural light, clean geometry, subtle texture on clothing,realistic facial structure if visible, premium editorial mood, uncluttered background, no props,no text, no extra elements, no distortion, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1013,
+    "title": "海风吹拂高级美妆人像",
+    "category": "人像写真",
+    "prompt": "Luxury beauty portrait of an adult Black woman with natural elegant styling, youthful confidence,dewy realistic skin, subtle pores, soft-focus cinematic lens rendering, and monochromatic stylingaccents in vanilla, mahogany red, and sapphire blue. Beachside breeze moving the hair gently,minimal jewelry, layered textured fabrics, symmetrical composition with soft haze and nostalgicglow. Keep makeup refined rather than theatrical, preserve natural anatomy, high-fashionphotography realism, controlled highlights on skin, no porcelain smoothing, no exaggerated glamourretouching, no text, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1014,
+    "title": "CCD 闪光抓拍偶像感",
+    "category": "人像写真",
+    "prompt": "Old-CCD-camera-style candid snapshot of an adult Korean female idol indoors under messy dimambient light with direct harsh flash. Grainy texture, slight motion blur, accidental capturedmoment, head turning toward camera as if just noticed being photographed, shoulders slightlyraised, shy surprised expression, loose homewear with natural folds, nothing revealing. Preserve \nrealistic skin texture and believable proportions, keep the flash spill natural, cluttered roomsoftly visible but not distracting, no beauty filter, no CGI smoothness, no text, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1015,
+    "title": "俯视厨房女厨师",
+    "category": "人像写真",
+    "prompt": "CopyA bird's-eye view fisheye lens photograph of a young female chef standing in a modern, clean kitchen, wearing full kitchen attire (apron, chef hat), holding a cooking utensil and smiling confidently. The background shows countertops, shelves with utensils, and warm lighting. Wide-angle perspective with dynamic depth and cinematic lighting, high-resolution, professional photo style.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1016,
+    "title": "青蛇小青妖娆写真集",
+    "category": "人像写真",
+    "prompt": "Green Snake Xiaoqing photoshoot blockbuster, green tight snake scale dress, wet hair red lips, seductive and enchanting",
+    "imageCount": 4,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1017,
+    "title": "蜘蛛精",
+    "category": "人像写真",
+    "prompt": "Journey to the West spider spirit seduction poster, four seductive female demons in the Silk Spinning Cave, misty and enchanting",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1018,
+    "title": "绝美唐风凤冠佳人的微醺特写",
+    "category": "人像写真",
+    "prompt": "Chinese style CG illustration, Tang dynasty aesthetics, stunning ancient woman, half-body close-up shot, visual focus on face and upper body, advanced portrait composition, cinematic lens language and spatial perspective\n\nCharacter design:\nEast Asian classical beauty, cold white translucent skin, delicate and realistic skin texture, soft and moist subtle glow;\nExquisite and three-dimensional facial features but natural without being overly exaggerated, narrow phoenix eyes, slightly upturned eye tails, affectionate and shy gaze, slightly intoxicated and hazy, long eyelashes casting subtle shadows;\nLip color like smudged rouge, slightly parted lips, gentle expression rich in emotional tension, presenting \"implicit oriental beauty\"\n\nStyling design:\nPink luxurious Tang dynasty costume, softly fitting body curves, rich layers but not overly stacked;\nModerate low neckline design, emphasizing collarbone and neck-shoulder lines, natural visual guidance without being overly blunt;\nWearing an exquisite phoenix crown (metal, pearls, gemstones, tassels), realistic material reflections, swaying slightly with movement\n\nDynamics and posture:\nBody slightly sideways or lightly rotating posture, neck extended, shoulder lines relaxed, hands forming soft guiding lines, enhancing picture rhythm and feminine soft tension\n\nLighting system:\nCinematic lighting\nKey light: warm golden side-front light focusing on face and skin highlights\nFill light: cool environmental light shaping volume and space\nRim light outlining hair and neck-shoulder contours\nHighlight control without overexposure, shadows retaining details, soft transition of facial light and shadow\n\nPicture style:\nHyper-realistic CG portrait integrating oriental freehand spirit, slight hazy aesthetics\n\nAtmosphere and texture:\nDreamy, implicit, advanced atmosphere of oriental aesthetics;\nBackground bokeh, weakening environment to strengthen character;\nSlight film grain + soft focus glow, enhancing emotion and texture\n\nColor system:\nPrimary colors: rouge pink, gilded gold\nSecondary colors: cool cyan-blue-gray\nOverall low saturation and high texture, avoiding vulgarity\n\nLens parameters:\n85mm portrait lens, f1.4–f2, shallow depth of field, cinematic framing\n\nImage quality:\nultra detailed, 8K–16K, extreme detail, high resolution, cinematic lighting\n\nAspect ratio:\n9:16",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1019,
+    "title": "冷艳高级感镜中倒影美女",
+    "category": "人像写真",
+    "prompt": "Stunningly beautiful woman with a cool, aloof atmospheric vibe, exquisite and refined facial features, cold and glamorous high-end face, long flowing hair, graceful and alluring figure, (character features completely locked and consistent) Scene: Indoor space with mirrors (bathroom or mirrored wall), multiple reflections, layered depth in the space Pose: Standing in front of the mirror, one hand lightly touching the mirror surface or resting on the countertop, body slightly angled, head gently turned toward the camera Expression: Calm and emotionless, with a hint of cold indifference and detachment Camera angle: Low angle or slight side angle shot, with the mirror reflection clearly visible in the frame Lighting: Cool white light as the main source, with localized shadows, emphasizing structural contours and three-dimensionality Style: High-end fashion editorial, subtle film grain, low contrast Details: Delicately realistic skin texture, clear yet softly layered and slightly blurred mirror reflections Atmosphere: Restrained, rational, distant, with a touch of surreal unreality Quality: Ultra-sharp 8K, extreme details, cinematic lighting and shadows, beautiful depth-of-field bokeh",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1020,
+    "title": "韩系女友私密白衬衫特写",
+    "category": "人像写真",
+    "prompt": "9:16 vertical — Korean idol intimate portrait, single subject, boyfriend POV\n\nsoft black mist filter, glowing highlights, gentle bloom, slight overexposure, soft haze, lowered contrast, creamy tones\n\nclose distance framing, intimate perspective, slight handheld feeling\n\nyoung Korean female idol, natural soft makeup, dewy realistic skin texture, subtle imperfections\n\noutfit: oversized white shirt slightly loose and relaxed + short bottoms, soft fabric, naturally draped, no revealing elements\n\nhair: long dark hair, slightly messy, soft movement around face\n\npose: sitting or leaning slightly forward toward camera, upper body subtly angled; one hand resting lightly near collarbone or gently holding shirt edge, the other relaxed; shoulders loose, slight natural body curve\n\nexpression: soft playful smile, slightly parted lips, warm eye contact with camera, hint of teasing intimacy\n\ncamera: close-up to mid-body framing, eye-level or slightly lower angle, as if viewer is right in front of her\n\nlighting: warm diffused window light, soft highlight bloom on skin, gentle shadows, slight lens flare or light leak\n\nmood: intimate, romantic, subtly seductive, “caught in a private moment” feeling\n\nquality: ultra-realistic, fine film grain, slight motion blur, imperfect framing, dreamy cinematic softness",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1021,
+    "title": "12格清醒场景图",
+    "category": "人像写真",
+    "prompt": "A 12-frame collage styled like a high-end luxury fashion Spring/Summer teaser campaign.\nEach frame is minimal, refined, and filled with soft natural light — bright, airy, and quietly luxurious.\n\nThe subject is a young Japanese woman with a natural,",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1022,
+    "title": "帅气时尚照",
+    "category": "人像写真",
+    "prompt": "Studio, minimalist, high-end fashion, realism, texture contrast, natural diffuse light, pose tension.\n**[Actionable Prompt / 积木指令]:** A full-body portrait of a confident Asian female model with a sharp, intense gaze, holding a powerful pose straddling a large, raw solid wood communal table. She has dark hair in a sleek bun and wears an off-the-shoulder matte black bodysuit and wide-leg trousers. She is accessorized with layered gold necklaces, gold bracelets, and rings. The environment is a minimalist industrial interior with light grey textured concrete walls and floor. The lighting is large, soft, natural daylight (diffused), creating minimal shadows and highlighting real skin texture and fabric folds. Shot on Hasselblad H6D, 80mm f/4 lens, natural grain. The text is for layout reference only and not part of the scene. --ar 3:4",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1023,
+    "title": "16 面板表情网格",
+    "category": "人像写真",
+    "prompt": "Create a 18-panel expression grid (4x4 layout) of the same young woman in a realistic portrait photography style, not anime or cartoon. The subject must remain highly consistent across all 16 panels in face shape, hairstyle, eye color, skin texture, and clothing. She should be an early-20s woman with ultra-realistic delicate features, bright blue eyes, a high nose bridge, a small sharp V-shaped jawline, flawless porcelain skin with a cool ivory undertone, subtle natural skin texture and micro pores, natural dewy makeup with a soft flush on the cheeks, and glossy natural pink lips. She has long silver hair with soft layers and loose strands framing her face. Clothing should remain the same in every panel: a simple clean white top or shirt with a minimal elegant look. Use a clean, consistent, studio-like or plain neutral background so the focus stays entirely on the expressions. The framing should be consistent across all panels, like a portrait reference sheet, with chest-up or head-and-shoulders composition. Lighting should be realistic and flattering, with a cinematic photographic feel, fine detail, and natural skin rendering. The 16 expressions should be: happy, sad, angry, surprised, shy, speechless, evil grin, contemplative, curious, proud, wronged, disdainful, confused, scared, crying, and heart expression. Each panel should clearly show a distinct expression while preserving the same identity and overall appearance. The final result should look like a professional realistic facial expression reference sheet, with no anime styling, no cartoon rendering, no watermark, and no distracting background elements.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1024,
+    "title": "水彩画表情包\\(@[豆丁學ai](https://www.xiaohongshu.com/user/profile/67fe641c000000000e01c7f6?channel_type=web_note_detail_r10&parent_page_channel_type=web_user_board&xsec_token=ABkqenIdInpP0YQCIaiM4VAs8GkuKX2fZQXnLBRvUq6UA=&xsec_source=pc_comment)\\)",
+    "category": "人像写真",
+    "prompt": "请依照提供的人物形象，设计一组拟人风格9张风格一致的专属贴图。角色设定为「你的身分」，整体采用跟提供图片一致的真实风格，保留人物五官特色与辨识度。 贴图需具备： • 表情丰富、情绪明确（开心、思考、惊讶、专注、加油等） • 动作自然生动 • 搭配生活日常情境元素 整体风格要求： • 色彩干净、柔和且具设计感 • 风格统一、角色比例一致 • 适用于简报、社群贴文与数位内容创作 • 具有个人品牌识别度与专业形象 贴图内容可包含简短文字（中英皆可），提升实用性与互动感。 最终呈现需： 一整套9张贴图完整排列 每张独立可用，亦可整体输出 高解析度、适合数位应用与分享￼",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1024,
+    "title": "签名照",
+    "category": "人像写真",
+    "prompt": "请依照提供的人物形象，设计一组拟人风格9张风格一致的专属贴图。角色设定为「你请根据上传的人物参考照，生成一张超写实摄影棚自拍风格照片。\n【人物要求】\n需高度还原参考照脸型、五官比例、眼睛、鼻子、嘴巴、表情、肤色、自然肤质，视线看向镜头\n服装都必须维持一致。禁止美化、瘦脸、改变年龄、改变表情、重塑五官或重新设计服装。\n【构图与镜头】\n使用超广角鱼眼镜头＋自拍视角\n视角从上往下俯视的立体构图，让人物像近距离对着镜头自拍\n人物一手向镜头伸出，拿着金色签字笔，笔尖非常接近镜头，像正在镜头玻璃上签名\n另一手自然抱着一株与人物等身大的（#A clutch Of Green daisy），需真实立体，像摄影棚中的超现实道具。\n背景为干净的灰白色摄影棚墙面与地板，柔和棚灯、自然阴影，画面中不要出现摄影器材或多余物件。人物比例自然，头部可因鱼眼自拍略微放大，但不可夸张、不可 Q 版或卡通化。\n\n请在镜头玻璃前景上，以银色手写墨水写出：\n（#在AI淘汰你之前成为AI大师吧）文字需像被笔尖直接写在镜头玻璃上，而不是背景字或后制字卡。文字起点靠近笔尖，沿着镜头表面自然延伸，可微斜、可有鱼眼透视变形。金色墨水需有手写笔迹、金属反光、玻璃上的笔触厚度与墨水残留感。文字不可遮住人物眼睛、鼻子、嘴巴或主要表情，并要让笔尖、墨水与文字有明确连续感，呈现正在签名的瞬间。\n整体风格为超现实但接近真实照片，色彩自然，可有轻微底片颗粒，不要商业海报感。\n禁止：改变人物脸部、脸部变形、瘦脸、美肌过度、卡通化、Q版化、动漫化、插画化、过多贴图、过度鲜艳滤镜、UI介面、平面设计排版、海报风、电脑字型文字、摄影器材、改变服装。3:4画幅的身分」，整体采用跟提供图片一致的真实风格，保留人物五官特色与辨识度。 贴图需具备： • 表情丰富、情绪明确（开心、思考、惊讶、专注、加油等） • 动作自然生动 • 搭配生活日常情境元素 整体风格要求： • 色彩干净、柔和且具设计感 • 风格统一、角色比例一致 • 适用于简报、社群贴文与数位内容创作 • 具有个人品牌识别度与专业形象 贴图内容可包含简短文字（中英皆可），提升实用性与互动感。 最终呈现需： 一整套9张贴图完整排列 每张独立可用，亦可整体输出 高解析度、适合数位应用与分享￼",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2001,
+    "title": "夏季柑橘汽水 PET 广告",
+    "category": "商业广告",
+    "prompt": "Premium commercial beverage advertisement for a fictional summer carbonated drink named SummerCitrus SODA in a 500ml PET bottle. Hero bottle centered, label crisp and readable, coldcondensation beads, citrus slices and sparkling water arcs suspended mid-air, bright summerenergy, high-CTA commercial clarity. Use a vibrant citrus color system with cleansunlight-inspired highlights, controlled reflections on the bottle, bold but elegant backgroundgradient, believable splash physics, sharp cap and bottle shape, premium studio lighting with acool rim and warm frontal sparkle. High-end product photography realism, strong negative space forfuture layout use, no warped packaging, no extra bottles unless intentionally composed, no randomtext, no logo errors, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2002,
+    "title": "武则天香水妆广告",
+    "category": "商业广告",
+    "prompt": "Empress perfume advertisement, same style as Wu Zetian, golden bottle with dragon patterns, dark palace vibe cinematic shot",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2003,
+    "title": "粉色少女风珍珠奶茶特写广告",
+    "category": "商业广告",
+    "prompt": "Milk tea advertisement image, pink girly style, close-up of bubble tea, summer cool feeling",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2004,
+    "title": "四连幅日系虚构商品广告",
+    "category": "商业广告",
+    "prompt": "Square four-panel layout showing four fictional Japanese-style ad concepts side by side, eachpanel representing a different product type while preserving a unified design language. Usepremium poster composition, crisp visual hierarchy, refined lighting logic, strong productreadability, elegant background treatment, and varied color systems for each panel. Panels shouldfeel designed by a professional art director, trendy yet restrained, clean separation betweenpanels, no text glitches, no warped packaging, no clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2005,
+    "title": "ins风护肤品清新摆拍",
+    "category": "商业广告",
+    "prompt": "Xiaohongshu recommendation cover, Instagram-style still life photography of skincare products, Japanese fresh filter",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2006,
+    "title": "老干妈星巴克高端联名运营图",
+    "category": "商业广告",
+    "prompt": "Generate a complete high-end brand operation image, the product is a co-branded item of Lao Gan Ma and Starbucks: Lao Gan Ma Americano, the main image is in the center, below are some co-branded designs, packaging bags, cup sleeves, and mascots.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2007,
+    "title": "潮流视角重塑精致商品广告",
+    "category": "商业广告",
+    "prompt": "Please redesign this product advertisement from the perspective of a professional designer. Adopt current fashion trends, exquisite design targeting the target audience.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2008,
+    "title": "鲜艳霓虹光影下的动感苏打水飞溅商业",
+    "category": "商业广告",
+    "prompt": "{\n  \"prompt\": \"Three ultra-dynamic soda cans in one vibrant high-end advertising composition — a can of TROPICAL RUSH exploding with dramatic water and tropical fruit splash, vibrant orange and pink background lighting; a can of LEMON ICED splashed with cold water against a glowing green dynamic light background; both cans covered in realistic condensation and motion-blurred droplets, bursting with fruity, refreshing energy. Deep orange, pink, and neon green lighting blend together in a bold studio setup. Captured by a professional photographer using a Canon 50mm lens, hyper-realistic textures, crisp details, ultra high resolution, bright commercial poster aesthetic, rich color vibrancy, cinematic splash effects --ar 3:4\"\n}",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2009,
+    "title": "极简几何装置风产品广告",
+    "category": "商业广告",
+    "prompt": "请为【主题产品】创作一张“极简几何装置风产品海报”。\n\n如果我提供了产品图片，请以该图片为主要参考，保留产品的核心外观特征、包装形态、颜色、材质、品牌识别和整体气质，并优先沿用产品图中的主色调与配色关系进行设计。\n如果我没有提供产品图片，请根据【主题产品】自动生成符合该产品定位的产品外观与包装设计，并根据产品属性、品类特征和气质，自动匹配自然合理的主色、辅助色、道具造型与展示方式。\n\n海报整体风格要求：\n画面采用高键白色或暖白色摄影棚背景，整体干净、通透、柔和、明亮，具有高级商业感与现代品牌视觉气质。构图不是普通电商棚拍，而是像品牌视觉提案、艺术静物摄影与3D产品陈列结合的概念海报。\n\n画面主体应包含：\n1. 【主题产品】本体\n2. 产品包装\n3. 与产品相关的原料、切片、部件、功能元素或材质细节\n\n三者共同构成完整的视觉链路，使观者一眼就能理解“这是什么产品、内容是什么、卖点或来源是什么”。\n\n场景中加入简洁且具有设计感的几何装置道具，例如：圆柱、方块、长条块、圆环、球体、半圆、平台、堆叠积木、亚克力支架、玩具感结构体等，用于承托、悬置、围绕或衬托产品主体，形成富有秩序感、节奏感和层次感的艺术陈列构图。\n\n整体配色应围绕产品本身自然展开，以产品关联色为主视觉核心，搭配白色、奶油色、浅灰色等中性色，必要时加入少量辅助点缀色，使画面颜色统一、克制、舒适、清爽，不杂乱、不花哨。不同产品应自动适配不同配色，不固定使用某一种背景色。\n\n材质表现要细腻真实，具有高质量商业渲染质感。透明塑料、亚克力、磨砂材质、纸质标签、玻璃、金属、光滑塑胶、果肉纹理、食材纹理或产品表面细节都应自然可信。可以有轻微反射与柔和阴影，但不要过重、不要脏乱。\n\n构图要求留白充足，主体明确，画面平衡，视觉整洁，具有轻松、温和、现代、精致、亲和、带一点童趣但不幼稚的品牌气质。整体感觉像一张高审美的品牌产品KV海报，非常适合电商主视觉、社交媒体种草图、产品展示图。\n\n输出要求：\n- 竖版构图\n-  比例\n- 单张海报\n- 高级感、简洁感、品牌感强",
+    "imageCount": 3,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2010,
+    "title": "瞬间包装创意板风格广告",
+    "category": "商业广告",
+    "prompt": "请为【产品名称】生成一个“瞬间包装创意板风格”的产品介绍海报。如果我提供了产品图片，请以该图片为主要，保留产品的核心外观特征、包装形态、颜色、材质、品牌识别和整体质感，并优先沿用产品的主色调与色调关系进行设计。如果我没有提供产品图片，请根据【产品名称】自动生成符合该产品定位的产品外观与包装设计，并根据产品属性、品类特征和质感，自动搭配自然合理的主色、辅助色和背景色。 海报整体风格要求：这不是普通电商详情页，也不是单纯的棚拍海报，而是一张融合的“产品产品图+包装设计草图+” 整体呈现为高审美、高完成度的品牌设计展示图，像设计师正在展示一个包装概念方案。画面要求： - 整齐版构图 - 使用统一且有品牌感的主色调背景，背景颜色根据产品本身决定，不固定为某种颜色 - 应与产品属性协调：如果有参考图，优先继承参考图的主色和品牌颜色；如果没有参考图，则根据产品名称自动生成合理的色彩方案 -画面中央放置一个最完整、最吸睛的产品主视觉，具有真实的曲面、立体光影和商业成品效果 - 产品周边加入多个辅助视觉元素：不同角度的包装草图、结构草图、局部造型探索、手持展示小稿、包装展开思路、品牌字样排版试验 - 加入自然随性的黑色或交互线稿、箭头、圈画、符号、手写中文批注，让画面具有强烈的“设计过程感”和“创意创意感” -形成成品图要相对精致真实，草图部分要相对随性灵动，“完成品+设计草图”的对比 - 版型外观松弛自由，但整体协调秩序、有节奏、有视觉中心，体现高级平面设计感 - 可以适应加入与产品相关的小图形、小符号或具有趣味元素，增强品牌记忆点 - 最终效果应品牌感、创意感、过程感和视觉冲击力 原则结论： - 不固定背景 - 要根据产品类型、材质、用途、消费感受和品牌质感自动选择主色调 - 背景色、产品色、文字色、草图线色应相互协调 -可以使用高水渠背景，也可以使用柔和统一色系背景，只要整体有品牌感和视觉冲击力 - 色彩应自然服务于产品，而不是喧宾夺主风格关键词：包装设计方案板、品牌概念开发、介入草图、设计过程感、情绪板、创意评审稿、产品成品渲染、视觉实验、商业设计海报请特别注意： - 如果有参考产品图，优先跟随参考图，不要产品本身 -如果没有参考图，则根据产品名称自动生成合理的产品外观、包装和方案，并保持整体风格统一 - 画面重点是“产品介绍 + 创意设计流程展示” - 不要导入普通电商详情页，不要导入促销海报，不要过度恰好呆板，不要缺少草图和手写批注，不要廉价感，不要低幼卡通感\n\n如果我提供了产品图片，请以该图片为主要参考，保留产品的核心外观特征、包装形态、颜色、材质、品牌识别和整体气质，并优先沿用产品图中的主色调与配色关系进行设计。\n如果我没有提供产品图片，请根据【产品名称】自动生成符合该产品定位的产品外观与包装设计，并根据产品属性、品类特征和气质，自动搭配自然合理的主色、辅助色和背景色。\n\n海报整体风格要求：\n这不是普通电商详情页，也不是单纯棚拍海报，而是一张融合“产品成品图 + 包装设计草图 + 品牌概念开发过程”的创意提案板。整体呈现为高审美、高完成度的品牌设计展示图，像设计师正在展示一个包装概念方案。\n\n画面要求：\n- 竖版构图\n- 使用统一且有品牌感的主色调背景，背景颜色根据产品本身自然决定，不固定为某一种颜色\n- 配色应与产品属性协调：如果有参考图，优先继承参考图的主色和品牌色；如果没有参考图，则根据产品名称自动生成合理的色彩方案\n- 画面中央放置一个最完整、最吸睛的产品主视觉，具有真实质感、立体光影和商业成品效果\n- 产品周围加入多个辅助视觉元素：不同角度的包装草图、结构草图、局部造型探索、手持展示小稿、包装展开思路、品牌字样排版试验\n- 加入自然随性的黑色或深色手绘线稿、箭头、圈画、符号、手写中文批注，让画面具有强烈“设计过程感”和“创意提案感”\n- 成品图要相对精致真实，草图部分要相对随性灵动，形成“完成品 + 设计草图”的对比\n- 版式看起来松弛自由，但整体要有秩序、有节奏、有视觉中心，体现高级平面设计感\n- 可以适度加入与产品相关的小图形、小符号或趣味元素，增强品牌记忆点\n- 最终效果应具有品牌感、创意感、过程感和视觉冲击力\n\n配色原则：\n- 不要固定黄色背景\n- 要根据产品类型、材质、用途、消费感受和品牌气质自动选择主色调\n- 背景色、产品色、文字色、草图线稿色应彼此协调\n- 可以使用高饱和单色背景，也可以使用柔和统一色系背景，只要整体有品牌感和视觉冲击力\n- 色彩应自然服务于产品，而不是喧宾夺主\n\n风格关键词：\n包装设计提案板、品牌概念开发、手绘草图、设计过程感、moodboard、创意评审稿、产品成品渲染、视觉实验、商业设计海报\n\n请特别注意：\n- 如果有参考产品图，优先遵循参考图，不要偏离产品本身\n- 如果没有参考图，则根据产品名称自动生成合理的产品外观、包装和配色方案，并保持整体风格统一\n- 画面重点是“产品介绍 + 创意设计过程展示”\n- 不要做成普通电商详情页，不要做成促销海报，不要过度整齐呆板，不要缺少草图和手写批注，不要廉价感，不要低幼卡通感",
+    "imageCount": 3,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2011,
+    "title": "精致商品俯拍 Flat Lay",
+    "category": "商业广告",
+    "prompt": "Flat lay product photography from 90 degree angle, premium skincare set arranged on marble surface, soft shadows, white and gold color scheme, e-commerce main image style, clean composition, 1:1",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2012,
+    "title": "高端护肤品广告",
+    "category": "商业广告",
+    "prompt": "Luxury serum bottle with frosted glass finish, pale golden liquid inside, minimalist white marble surface, soft studio lighting from above, clean aesthetic, premium skincare brand photography, subtle reflection underneath, 1:1\"",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2013,
+    "title": "霓虹苏打水",
+    "category": "商业广告",
+    "prompt": "Neon-lit craft soda, cyberpunk aesthetic, glowing pink and blue reflections on glass bottle, dark urban background with bokeh lights, wet surface reflection, energy drink photography, 16:9",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 2014,
+    "title": "中秋礼盒包装",
+    "category": "商业广告",
+    "prompt": "Premium mooncake gift box, red and gold color scheme, traditional Chinese pattern, elegant silk ribbon, warm festive lighting, holiday gift photography, 16:9",
+    "imageCount": 3,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3001,
+    "title": "新中式水墨山水海报",
+    "category": "海报主视觉",
+    "prompt": "Neo-Chinese ink wash landscape poster in a vertical 9:16 format. Large areas of negative space,spring-morning palette of cyan-green, misty blue, pale gray, and diluted ink. Steep mountainsrising on both sides of a calm lake, soft morning mist building aerial perspective, a tinyfisherwoman in muted cinnabar red on a covered wooden boat as the only warm focal point, delicateripples, sparse spring vegetation, distant birds, vertical calligraphy placed near the top.Combine ink-wash softness with modern poster polish, restrained contrast, refined typography zone,cinematic stillness, no clutter, no cheap decorative effects, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3002,
+    "title": "东方奇幻城市流光海报",
+    "category": "海报主视觉",
+    "prompt": "Oriental fantasy city poster with a diagonal S-shaped composition on a vertical canvas. Deep blackfading into rich dark red background, a central golden energy line winding upward like a luminousribbon, stylized modern city landmarks emerging from the glow in line-art and glowing block forms,mysterious white-haired female figure at the bottom blending into the light flow while holding abouquet. Grand mystical atmosphere, premium poster finish, controlled volumetric light, rich butrestrained gilded color logic, integrated title area, no noisy composition, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3003,
+    "title": "废墟海城机甲少女海报",
+    "category": "海报主视觉",
+    "prompt": "Cinematic anime key visual poster of a mecha girl standing on a rusted platform above dark waterat dusk. Ash-white high ponytail, gunmetal exoskeleton armor, oversized hangar jacket, massiverail cannon, teal ambient light from overcast sky, distant amber sodium glow, colossal derelictsea-city structures in layered silhouettes behind her. Use medium-wide framing, slight low angle,volumetric sea mist, backlight carving the silhouette, painterly detail with crisp line art,editorial poster intensity, no extra limbs, no text clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3004,
+    "title": "玻璃燕与广州意象海报",
+    "category": "海报主视觉",
+    "prompt": "Advertising-poster composition on a pure black background structured by a bold calligraphicS-curve. A transparent swallow with subtle gold contour lines hovers as the main visual, classicaland modern city landmarks embedded along the curve below, cool blue-green and pale gold palette,white cranes near reflective water in the foreground, layered ink-wash mountains in the distance.Strong central glow fading outward, elegant East-meets-modern surreal mood, high informationdensity but still balanced, premium cultural poster texture, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3005,
+    "title": "极简广州国潮海报",
+    "category": "海报主视觉",
+    "prompt": "Neo-Chinese minimalist city poster centered on an abstract geometric tower form, with flowingriver motifs fused with auspicious-cloud patterns creating an S-shaped motion path. Landmarkoutlines, Lingnan arcade elements, restrained but high-saturation color system of Chinese red,cyan blue, and gilded gold, soft relief-like texture on clouds and water motifs, large breathingspace, high-end national-style illustration poster quality, no clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3006,
+    "title": "城市足球超级联赛邀请海报",
+    "category": "海报主视觉",
+    "prompt": "Invitation poster for a fictional provincial city football super league. Vertical composition ledby an S-shaped ball trajectory made of glowing energy. Central luminous football as the hero, citylandmarks and regional cultural symbols integrated along the motion path in line art plusselective color blocks, abstract player silhouettes secondary to the ball. Use strong Chinese redwith cyan-blue support and gold highlights, professional event-poster hierarchy, reserved titleand date area, clean but grand sports-brand energy, no text glitches, no watermark.",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3007,
+    "title": "阿玛菲复古旅行海报",
+    "category": "海报主视觉",
+    "prompt": "Vintage travel poster illustration of the Amalfi Coast with a hand-drawn pencil-informed structureand screen-print texture. Curved cliff road, classic 1960s white car, deep blue sea withsailboats, pastel hillside village, bright sky, lemon branches framing the foreground. Warm summerlight, bold vibrant colors, graphic decorative composition, clean retro poster hierarchy, high-endillustration finish, no modern brand marks, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3008,
+    "title": "双重曝光未来城市电影海报",
+    "category": "海报主视觉",
+    "prompt": "Hyper-realistic cinematic poster featuring a young man in side profile seamlessly merged with afuturistic city skyline growing from his silhouette. Deep blue and vivid red split lighting,fractured-glass textures and abstract scratches layered over the portrait, clean white background,sharp eye detail, premium movie-poster composition, strong contrast, editorial finish, nodistorted face, no extra elements, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3009,
+    "title": "冰与火史诗战士海报",
+    "category": "海报主视觉",
+    "prompt": "Epic fantasy movie poster of two warriors standing back-to-back in a frozen storm. Left side:battle-worn male warrior with sword planted in ice, wet curls, fur-lined cloak with frost. Rightside: female warrior in profile lit by fire, body partially engulfed in controlled flame againsticy atmosphere. Snow particles, fog, symbolic clash of cold blue and fiery orange, emotionalfaces, shallow depth, premium poster drama, no text clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3010,
+    "title": "涂鸦草图主题海报",
+    "category": "海报主视觉",
+    "prompt": "Graffiti-sketch-style poster expressing the chosen subject with fast expressive lines, playfuldeformation, rough color blocking, dry-brush marks, casual arrows, circled details, handwrittennotes, and strong negative space. The overall look should feel like a designer's sketchbook pageelevated into a collectible poster, keeping rhythm and spontaneity while preserving a clean focalarea. Include a subtle artist-style signature placed naturally, no photoreal background, noclutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3011,
+    "title": "荒诞超现实女装大叔海报",
+    "category": "海报主视觉",
+    "prompt": "A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing older man, 4 variations. Reaching the level of a professional designer's production. The project and setting itself is a surreal animation of the \"Are they really making a movie out of this?\" kind, serious yet irresistibly funny. The title and broadcast information should also be displayed in Japanese.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3012,
+    "title": "层蒙太奇构图的电影海报",
+    "category": "海报主视觉",
+    "prompt": "A cinematic movie poster utilizing a layered montage composition. In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road. In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun. Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting. In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting. Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu. Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \\\"Umi no Mieru de\\\" (Dogstar★RECORDS) Production: \\\"Yūnagi no Shippo\\\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \\\"Yūnagi no Shippo\\\" Film Partners'.\"\n  segmented:\n    - layer_index: 0\n      segment: \"In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road.\"\n    - layer_index: 1\n      segment: \"In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun.\"\n    - layer_index: 2\n      segment: \"Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting.\"\n    - layer_index: 3\n      segment: \"In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting.\"\n    - layer_index: 4\n      segment: \"Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu.\"\n    - layer_indices: [5, 6, 7, 8]\n      segment: \"Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \\\"Umi no Mieru de\\\" (Dogstar★RECORDS) Production: \\\"Yūnagi no Shippo\\\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \\\"Yūnagi no Shippo\\\" Film Partners'.\"\n\nnegative: \"flat lighting, untextured surfaces, symmetrical composition, empty bottom margin, missing text, translated text, paraphrased text, 3D render, cartoon, high-contrast harsh shadows, dry hair, bright cheerful expressions",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3013,
+    "title": "足球海报",
+    "category": "海报主视觉",
+    "prompt": "Cinematic portrait of [德国] showing his/her journey, with bold text of achievements and best performances",
+    "imageCount": 4,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3014,
+    "title": "主题海报设计",
+    "category": "海报主视觉",
+    "prompt": "{\"type\": \"2x2 grid of promotional banner ads\", \"theme\": \"{argument name=\\\"course theme\\\" default=\\\"Social Media Content Creation School\\\"}\", \"panels\": [{\"position\": \"top-left\", \"color_palette\": \"light blue and pink pastel gradient\", \"subject\": \"young woman smiling, resting chin on hand, smartphone and ring light in foreground\", \"typography\": {\"headline\": \"{argument name=\\\"top left headline\\\" default=\\\"発信を仕事に変える SNSスクール\\\"}\", \"subheadings\": [\"好きが、私の未来になる！\", \"クリエイター志望歓迎！\"]}, \"layout_elements\": {\"bullet_points_count\": 3, \"call_to_action_button\": \"pink button labeled '無料体験 >'\"}}, {\"position\": \"top-right\", \"color_palette\": \"deep blue and cyan geometric\", \"subject\": \"young man looking intently at a professional camera on a tripod with a ring light\", \"typography\": {\"headline\": \"{argument name=\\\"top right headline\\\" default=\\\"魅せる投稿が学べる\\\"}\", \"subheadings\": [\"企画・撮影・運用サポート\"]}, \"layout_elements\": {\"circular_icons_count\": 3, \"icon_types\": [\"lightbulb\", \"camera\", \"bar chart\"], \"call_to_action_button\": \"yellow button labeled '詳細はこちら >'\"}}, {\"position\": \"bottom-left\", \"color_palette\": \"soft beige and white aesthetic\", \"subject\": \"young woman looking thoughtfully to the side, mood board background\", \"typography\": {\"headline\": \"{argument name=\\\"bottom left headline\\\" default=\\\"自分の世界観を育てる\\\"}\", \"subheadings\": [\"あなたらしさが、一番の強みになる。\", \"SNSブランディング講座\"]}, \"layout_elements\": {\"horizontal_icons_count\": 3, \"icon_types\": [\"palette\", \"person\", \"heart\"], \"call_to_action_button\": \"pink button labeled '今すぐ見る >'\"}}, {\"position\": \"bottom-right\", \"color_palette\": \"vibrant pink and magenta pop design\", \"subject\": \"young woman smiling brightly, pointing at text, messy bun, smartphone on tripod\", \"typography\": {\"headline\": \"{argument name=\\\"bottom right headline\\\" default=\\\"好きな発信でファンをつくる\\\"}\", \"subheadings\": [\"実践型レッスン\"]}, \"layout_elements\": {\"bullet_points_count\": 4, \"call_to_action_button\": \"yellow button labeled '申し込む >'\"}}]}",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3016,
+    "title": "IG/小红书爆款人物封面\\(可以制作GEM\\)",
+    "category": "海报主视觉",
+    "prompt": "请扮演一位专精于 Instagram /小红书及数码宣传内容的 Social Media Art Director 兼 Digital Collage Artist，擅长为个人形象打造大胆、年轻化的视觉作品。\n\n【PHASE 1：概念框架】\n创作一幅动感数码拼贴，将时尚摄影与图形设计的「混乱美学」融合。这是一种「受控的叛逆」——构图看似随性而充满能量，同时保持整体视觉一致性。风格走 anti-polished 路线：撕裂边缘、层叠纹理、手绘元素、大胆色块，传递自信与动态感。\n\n【PHASE 2：人物与照片处理】\n主体：使用用户提供的个人照片作为主角\n姿态能量：80% 态度 + 20% 自然——坐姿、跳跃、动态中、或 power stance（避免呆板站立）\n服装：依照用户照片原有造型，街头风或运动休闲风格为佳\nHero 元素：突出用户照片中的标志性配件、服饰或个人特色（鞋、袋、衣物、发型等），作为视觉锚点 \n\n\n摄影风格：Editorial fashion cutout——将人物从原背景干净地抠图（background removal）\n镜头角度：保留或模拟轻微低角度，赋予主体英雄视角\n构图：全身或 3/4 身，清晰展示主体\n抠图处理：边缘干净利落，方便叠加于拼贴元素之上\n【PHASE 3：色块基础】\n主色块（Primary Color Blob）：大型有机形状（占画面 40-60%）置于人物背后或周围，使用大胆饱和色\n形状风格：不规则、手绘感——Photoshop 笔刷或撕纸纹理（避免完美几何形状）\n颜色选择（自主决定）：根据用户照片整体调性，选 1 个 hero color\n纹理：可见笔触、颗粒或细微噪点（15-25% opacity），避免纯平面数码填色\n位置：色块应框住人物，但不遮挡关键细节\n【PHASE 4：图形元素层】\n在构图中散布 3-5 个抽象图形元素：\n元素类型：手绘圈、星星、涂鸦线条、撕纸形状、箭头、乱笔涂鸦、贴纸感图案\n色彩搭配：总共使用 2-3 种颜色（主色块色 + 1-2 种对比色）\n\n位置：不对称散布——主要落在左上与右下区域（避免中央拥挤）\n比例：混合小型（占画面 5%）与中型（占画面 15%），避免任何元素过于抢眼\n美学：Analog / handmade 感——不完美的圆形、粗糙边缘、可见纹理\n【PHASE 5：文字整合】\n主标题：用户可指定姓名、昵称、IG handle、或一句个人 slogan，置于左上或右上（占宽度 10-15%）\n副标：可选 1 行描述语（例如「A MOMENT OF MY STYLE」、「OWN THE MOMENT」）使用较小 uppercase sans-serif\n字体处理：对齐与轻微旋转（2-5°）混合，营造动态能量\n层级：主标题最大 → Slogan 中 → 副标最小\n【PHASE 6：纹理与背景】\n底层：米白或浅灰纹理背景（切勿纯白）\n纹理选项（自主选择）：纸张纹理、轻微噪点、水彩晕染、布料肌理\n颜色：RGB 245-250（带暖意的近白色）——保持明亮并增加层次\n处理原则：纹理「感受到但不喧宾夺主」，提升质感而不影响前景\n【PHASE 7：构图规则】\n布局：不对称平衡——人物偏离中心，图形元素反向平衡\n留白：保留 15-20% negative space（露出背景纹理），避免拥挤\n层级顺序：背景纹理 → 色块 → 图形元素 → 人物（cutout）→ 文字\n视觉焦点：人物 + Hero 元素 = 主焦点（60% 视觉重量），图形作支援（40%）\n动态：对角线与倾斜元素营造方向感（左上至右下或反之）\n【PHASE 8：个人风格智能适配（自主判断）】\n根据用户照片整体气质，自主选择对应风格：\n街头运动风：高饱和原色（红、橙、电光蓝）+ 喷漆涂鸦感\n高级简约风：黑白灰为主 + 1 种强调色，极简图形元素\n美妆生活风：粉色、米色、鼠尾草绿等柔和色调 + 手写字体\n科技现代风：冷调蓝灰 + 锐利几何元素，干净排版\n\n【PHASE 9：社交媒体页脚（可选）】\n底部色带：白色或浅灰干净横条，占画面底部 8-10%\n内容：用户 Instagram、Facebook、Threads handle，小型 sans-serif\n排版：三栏式 grid，配平台 icon 或纯文字\n风格：简洁专业，与上方混乱拼贴形成对比\n【技术规格】\n比例：4:5（IG feed）或 1:1（方形社交贴文）\n解析度：最少 2400x3000px（高清可放大）\n色彩模式：sRGB，饱和度提升（IG 优化）\n整体美学：数码拼贴模拟手作质感（Photoshop + 手绘混合）\n风格参考：Nike social campaigns、Spotify Wrapped、Gen Z Instagram、Hypebeast 街头联名\n整体 Mood：自信、有能量、年轻、真诚的混乱感、反企业化的精致\n\n【需要用户输入】\n提问环节:\n请用户提供\n1. 个人照片一张（建议全身或 3/4 身、动态姿势、服装清晰）\n2. 期望主标题文字（姓名、个人 slogan）\n3. 风格偏好（街头 / 简约 / 理性 / 科技，或自主判断）\n\n开始执行时：抠图 → 套色块 → 加图形元素 → 整合文字 → 套纹理背景 → 输出成品",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3017,
+    "title": "城市春天的海报",
+    "category": "海报主视觉",
+    "prompt": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city's waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads \"SPRING 2026\" with a vertical slogan \"BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION\", text clear and beautifully composed, premium graphic design, 9:16",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3018,
+    "title": "山河茶饮海报",
+    "category": "海报主视觉",
+    "prompt": "Design a 3:4 vertical poster for a new artisan tea drink launch. Brand name: \"Mountain River Tea\". Style: New Chinese aesthetic, light luxury, restrained. Colors: dark green, off-white, gold. Incorporate rice paper texture, negative space, elegant landscapes, modern layout design. Main subject: a visually appealing cold brew tea with tea leaves, citrus, ice cubes, and gold foil elements. The poster must accurately display this text hierarchy: brand name, product name, series name, launch tagline, limited-time price (medium and large sizes), in-store promotions, flavor descriptors, campaign dates, and QR code section. Requirements: Clear promotional hierarchy while maintaining sophistication, not cheap e-commerce style. Focus on small text, numbers, prices, info modules, and Chinese font aesthetics.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 3019,
+    "title": "花季的海报\\(@[莹识的莹](https://www.xiaohongshu.com/user/profile/5cfcfbf80000000011008c46?channel_type=web_note_detail_r10&parent_page_channel_type=web_user_board&xsec_token=ABSf19tTnBTHMmx60BZkmvWcBAuA4InDX8l--0UDLqdYM=&xsec_source=pc_comment)\\)",
+    "category": "海报主视觉",
+    "prompt": "请根据用户最后输入的任何推荐对象，生成一张高质感推荐卡片或海报。对象可以是 App、软件、网站、GitHub 项目、一本书、一篇文章、一句话、一段文案、一道人物观点、一套菜、一份食谱、一个品牌、一个工具、一个方法，或任何值得介绍给别人的东西。 你要做的不是把用户给的信息简单排版，而是先理解它为什么值得被看见。若它属于现实存在的对象，请主动联网调查它的背景、来源、真实特点、核心价值、口碑、适用人群与边界；若它是用户提供的原创内容、观点或文案，请进行理解、提炼、重组与升华，让它变得更有营养、更有判断力、更适合被传播。 整体以苹果式克制、顶级海报设计判断力、高桥",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4001,
+    "title": "大乌贼百科图",
+    "category": "百科信息图",
+    "prompt": "Create a highly detailed encyclopedia-style science infographic about the giant squid. A dramaticcentral subject rendered with lifelike depth appears to push out from an aged beige paperbackground. Around it, build 6-8 clearly separated modules: external anatomy, tentacle detail, eyestructure, habitat map, behavior cycle, digestive and skeletal systems, evolutionary relatives,conservation and human encounters. Use clean Chinese headings and highly legible annotation lines,magnified detail windows, structured labels, consistent borders, dense but organized layout,scholarly and collectible visual tone, no branding, no gibberish text.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4002,
+    "title": "达芬奇\\|人物百科图",
+    "category": "百科信息图",
+    "prompt": "Universal illustrated encyclopedia infographic on Leonardo da Vinci. Central realistic bustbreaking the frame slightly, surrounded by modular panels for anatomy studies, inventions,timeline, notebooks, painting methods, scientific observations, influence and legacy. Aged paperbackground, delicate linework, rich callouts, arrows, diagram fragments, highly legible Chineselabels, clear title hierarchy, professional academic-art style, balanced white space around thecenter, no logos, no unreadable text.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4003,
+    "title": "红杉树植物百科图",
+    "category": "百科信息图",
+    "prompt": "Detailed plant encyclopedia infographic on the giant sequoia. Central towering tree rendered withdramatic depth, surrounded by panels showing bark cross-section, leaf and root magnifications,life cycle, habitat map, fire ecology, age rings, cultivation notes, conservation status, folklorereferences. Use a warm archival-paper background, scientific illustration style, crisp annotationlines, rich but readable Chinese text blocks, modular organization, no branding, no gibberish.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4004,
+    "title": "景德镇青花瓷\\|拆解图",
+    "category": "百科信息图",
+    "prompt": "Detailed explanatory diagram of Jingdezhen blue-and-white porcelain with modular knowledge design.Main hero object: a porcelain vase rendered elegantly in the center. Surrounding modules: claysource, shaping process, underglaze cobalt painting, kiln firing, glaze chemistry, motifstructure, pattern zoom-ins, dynasty timeline, restoration knowledge, key identifying features.Use readable Chinese section titles, magnified windows, arrow annotations, elegantwhite-and-cobalt palette, balanced whitespace, clean educational layout, no clutter, no unreadabletext.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4005,
+    "title": "“天坛”建筑拆解百科图",
+    "category": "百科信息图",
+    "prompt": "Architectural explanatory infographic of the Temple of Heaven in a refined Chinese aesthetic. Showa central exploded or cutaway architectural view, then build modular panels for roof tiers,bracket sets, axial planning, ceremonial function, materials, color symbolism, geometricproportions, circulation routes, and close-up ornament details. Use crisp Chinese labels, structured diagrams, callout lines, measured layout, calm parchment-toned background withrestrained red-blue-gold accents, no gibberish text, no branding.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4006,
+    "title": "高信息量科普知识卡",
+    "category": "百科信息图",
+    "prompt": "Vertical popular-science encyclopedia card about the selected topic, designed as a collectiblemodular infographic rather than a poster. Include a clear theme visual, enlarged local detailwindows, rounded information boxes, scorecard modules, top-5 quick facts, key tags, concise butrich educational text, and structured sections chosen from profile, classification, mechanism,habitat or usage, maintenance, risks, pros and cons, suitable scenarios. Light clean background,soft palette, neat typography, high information density without crowding, no advertising feel, nogibberish.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4007,
+    "title": "成都手绘美食地图",
+    "category": "百科信息图",
+    "prompt": "Hand-drawn city food map themed around Chengdu, seen from a simplified bird's-eye map perspective.Mark roads and landmarks in a cute but well-organized layout, with twelve small illustrated foodspots distributed around the map: skewers, three-pao dessert, crispy pancakes, hotpot, noodles,and more. Add handwritten shop labels, short recommendation notes, decorative chili-and-vineborder, a small compass, and a legend panel. Watercolor and colored-pencil mixed texture, warmchili-red and ginger-yellow palette, highly readable layout, no clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4008,
+    "title": "健身信息",
+    "category": "百科信息图",
+    "prompt": "请生成一张中文健身信息图，主题为：【xxx】。 \n\n要求这张图既专业又实用，适合普通成年人作为训练参考。默认对象为无严重伤病的健康成年人；如果没有额外说明，默认训练目标为“增肌 + 基础力量提升”，默认训练水平为“新手到中级之间”，默认训练场景为“普通健身房”，默认单次训练时长控制在 40–60 分钟内。\n\n请根据【训练主题】自动判断输出类型：\n\n1）如果【训练主题】是某个肌群或身体部位（例如：胸肌、背阔肌、肱二头肌、腹肌、肩部、腿部等），请输出一张“该部位训练计划信息图”。\n2）如果【训练主题】是某个动作或技能目标（例如：引体向上、俯卧撑、双杠臂屈伸、深蹲等），请输出一张“动作解锁 / 进阶训练计划信息图”。\n\n整张图请采用清晰、现代、专业、易读的中文信息图风格，竖版排版，视觉简洁，重点突出，适合社交媒体分享或训练参考卡片。不要写成长篇大论，每个模块用简洁短句呈现，数字信息要醒目。\n\n这张信息图必须包含以下内容：\n\n【A. 标题区】\n- 主标题：直接写【训练主题】训练计划 / 解锁计划\n- 副标题：自动补充适用人群、目标、训练场景、建议时长\n例如：适合新手 / 增肌导向 / 健身房版 / 45分钟\n\n【B. 训练目标区】\n用简洁语言说明：\n- 这次训练主要针对什么\n- 主要目标是什么（增肌 / 力量 / 技能解锁 / 核心控制等）\n- 本次训练的重点刺激或能力提升方向\n\n【C. 热身区】\n给出 2–4 个热身建议，简洁列出即可，例如：\n- 动态活动\n- 目标肌群激活\n- 轻重量预热组\n每项可附一句说明\n\n【D. 主训练区】\n这是核心部分，请列出 4–6 个主要训练动作。\n每个动作都要包含以下信息：\n- 动作名称\n- 训练作用 / 针对部位\n- 组数 × 次数（或时间）\n- RIR 建议\n- 每组间休息时间\n- 动作关键要点（1–2 条）\n- 常见错误（1 条即可）\n\n请确保动作安排合理：\n- 先复合动作，后孤立动作\n- 整体训练量适中\n- 新手不要安排过度极限训练\n- 主动作通常建议 RIR 1–3\n- 孤立动作可建议 RIR 0–2\n- 如果是腹肌或核心类动作，可用“秒数 / 次数”形式\n- 如果是技能类动作，请优先安排“前置能力动作 + 过渡动作 + 目标动作尝试”\n\n【E. 进阶 / 解锁逻辑区】\n根据主题自动生成：\n- 如果是肌群训练：写“如何渐进超负荷”，例如达到次数上限后再加重量、优先保证动作标准等\n- 如果是动作解锁：写“分阶段进阶路径”，例如从悬垂、肩胛引体、离心训练、弹力带辅助，到标准动作完成\n\n【F. 替代动作区】\n请给出 2–3 个替代动作，适用于以下情况：\n- 没有器械\n- 家庭训练\n- 当前能力不足\n- 某些动作做不了\n\n【G. 执行提醒区】\n请给出 4–6 条简洁提醒，例如：\n- 动作标准优先于重量\n- 不要每组都练到力竭\n- 同肌群建议间隔 48–72 小时\n- 疼痛不等于正常发力\n- 睡眠不足时可适当减少训练量\n\n【H. 恢复建议区】\n简洁说明：\n- 训练后恢复重点\n- 蛋白质 / 睡眠 / 恢复间隔建议\n- 1 句风险提醒（如有明显疼痛应停止并评估）\n\n【I. 视觉设计要求】\n- 整体为单页中文信息图\n- 竖版排版\n- 风格现代、清爽、专业、健身感强\n- 使用模块化卡片布局\n- 重点数字（组数、次数、RIR、休息）要醒目\n- 可加入简洁的人体肌群图标、哑铃、杠铃、引体向上等小图标\n- 颜色保持高级、干净、有运动感\n- 中文文字必须清晰、准确、易读\n- 避免过多装饰，强调实用性与执行性\n\n请最终输出为“一张完整的信息图内容”，而不是只给普通段落文字。",
+    "imageCount": 4,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4009,
+    "title": "蓝牙耳机科普信息图",
+    "category": "百科信息图",
+    "prompt": "Modern informational infographic explaining how wireless earbuds work. Central exploded-viewearbud graphic, modules for drivers, battery, microphones, ANC, Bluetooth signal flow, chargingcase, latency, and fit tips. Light clean background, rounded boxes, crisp leader lines, comparisonbars, practical tips, readable Chinese labels, polished tech-education visual language, nomarketing-copy clutter, no gibberish.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4010,
+    "title": "茶叶品种知识百科卡",
+    "category": "百科信息图",
+    "prompt": "Collectible tea encyclopedia card comparing several Chinese tea families. Use a central herovisual of tea leaves and brewed cups, then modules for oxidation level, aroma profile, terroir,leaf appearance, infusion color, brewing temperature, flavor notes, and recommended pairings.Gentle paper texture, clean modular grids, elegant green-brown palette, rich but readable Chineselabels, no branding, no gibberish text.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4011,
+    "title": "博物馆图鉴",
+    "category": "百科信息图",
+    "prompt": "请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。\n\n要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。\n\n整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。\n\n版式固定为：\n- 顶部：中文主标题 + 副标题 + 导语\n- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写\n- 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明\n- 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释\n- 底部：穿着顺序 / 构成流程图 + 核心特征总结\n\n若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。\n\n避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4012,
+    "title": "科普百科图（知识党专用）",
+    "category": "百科信息图",
+    "prompt": "请根据【主题】生成一张高质量竖版「科普百科图」。\n\n这张图不是普通海报，也不是单纯插画，而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。\n\n请让画面包含：\n- 一个清晰漂亮的主题主视觉\n- 若干局部特征放大细节\n- 多个圆角模块化信息分区\n- 清楚的标题层级与重点标签\n- 简洁但丰富的百科内容\n- 可视化评分、要点总结或Top 5模块\n\n内容栏目请根据主题自动适配，优先从这些方向中选择并合理组合：\n基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。\n\n视觉要求：\n浅色干净背景，柔和配色，轻阴影，精致小图标，圆角信息框，整洁排版，信息密度高但不拥挤，阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡，而不是广告图。\n\n请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4013,
+    "title": "旅游攻略",
+    "category": "百科信息图",
+    "prompt": "生成【城市】三天旅游攻略",
+    "imageCount": 3,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4014,
+    "title": "食物的医生科普图",
+    "category": "百科信息图",
+    "prompt": "提示词如下：以“{食物}的一生”为主题的科普信息图。画面中必须是“一个完整的搞笑食物”（如一个土豆/一把/一头大蒜），名称通过横向切片的方式，表现同一个食物在不同时间多个阶段的变化，而不是不同的食物切割。食物主体保持结构连续、形状一致，只是在不同的区域呈现不同的成熟度（像时间被切开）。画面为垂直版3:4比例，主体居中横向展开，被均匀分割为4-6段：从左到右：未成熟→成熟→过熟→变质每个片段体现真实变化：颜色变化（青→黄→黑等）纹理变化（表面→软化→皱缩→腐坏） 特征变化（发芽、出水、霉变等） 每级配文字说明： 级名称 外观特征 内部变化（糖分/淀粉/水分变化） 食用建议（推荐/适合烹饪/不可食用） 设计风格： 极简 浅色背景（米色） 高真实感 摄影风格 清晰分割线（时间切片感） 中文科普排版，小红书风格 适当使用\n\n画面中必须是“一个完整的单体食物”（如一个土豆 / 一把香蕉 / 一头大蒜），\n通过横向切片的方式，表现同一个食物在不同时间阶段的变化，而不是多个不同食物拼接。\n\n食物主体保持结构连续、形状一致，只是在不同切片区域呈现不同成熟度（像时间被切开）。\n\n画面为竖版3:4比例，主体居中横向展开，被均匀分割为4-6段：\n\n从左到右：未成熟 → 成熟 → 过熟 → 变质\n\n每一段体现真实变化：\n\n颜色变化（青→黄→黑等）\n质地变化（饱满→软化→皱缩→腐坏）\n特征变化（发芽、出水、霉变等）\n\n每个阶段配文字说明：\n\n阶段名称\n外观特点\n内部变化（糖分/淀粉/水分变化）\n食用建议（推荐/适合烹饪/不可食用）\n\n设计风格：\n\n极简浅色背景（米色）\n高真实感摄影风格\n清晰分割线（时间切片感）\n中文科普排版，小红书风格\n适当使用\n等 画面顶部标题：“{食物名称}的一生” 关键要求：构成“同一个食物随时间变化的切片”，而不是多个独立的包装食物名称：大蒜\n\n画面顶部标题：“{食物名称}的一生”\n\n关键要求：必须表现为“同一个食物随时间变化的切片”，而不是多个独立个体拼接",
+    "imageCount": 3,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4015,
+    "title": "心脏病发作过程图解",
+    "category": "百科信息图",
+    "prompt": "{\n  \"type\": \"comprehensive medical infographic\",\n  \"style\": \"highly detailed 3D medical illustration, clinical white background, clean typography\",\n  \"header\": {\n    \"title_cn\": \"\",\n    \"title_en\": \"{argument name=\\\"english title\\\" default=\\\"THE CAUSAL CHAIN OF HEART ATTACK\\\"}\",\n    \"subtitle\": \"Chest pain is not the beginning. Vascular damage is.\",\n    \"top_right_sequence\": {\n      \"count\": 6,\n      \"labels\": [\n        \"Risk Factors\",\n        \"Plaque Formation\",\n        \"Rupture\",\n        \"Clotting\",\n        \"Ischemia\",\n        \"Damage\"\n      ]\n    }\n  },\n  \"centerpiece\": {\n    \"description\": \"{argument name=\\\"central figure\\\" default=\\\"transparent anatomical human body showing heart, coronary arteries, lungs, and vascular system\\\"}\",\n    \"details\": \"pathway highlighted in {argument name=\\\"highlight color\\\" default=\\\"glowing red\\\"} focusing on the coronary arteries and radiating pain to the chest and left arm\"\n  },\n  \"layout\": {\n    \"left_column\": [\n      {\n        \"id\": \"01\",\n        \"title\": \"Major Risk Factors\",\n        \"elements\": 6,\n        \"labels\": [\n          \"Smoking\",\n          \"High LDL cholesterol\",\n          \"Hypertension\",\n          \"Diabetes\",\n          \"Obesity\",\n          \"Chronic stress\"\n        ]\n      },\n      {\n        \"id\": \"02\",\n        \"title\": \"Atherosclerosis Development\",\n        \"elements\": 2,\n        \"labels\": [\n          \"Fatty streak to plaque\",\n          \"Coronary artery wall\"\n        ]\n      },\n      {\n        \"id\": \"03\",\n        \"title\": \"Reduced Coronary Blood Flow\",\n        \"elements\": 2,\n        \"labels\": [\n          \"Narrowed artery lumen\",\n          \"Oxygen delivery decline\"\n        ]\n      },\n      {\n        \"id\": \"04\",\n        \"title\": \"Vulnerable Plaque\",\n        \"elements\": 2,\n        \"labels\": [\n          \"Thin fibrous cap\",\n          \"Lipid-rich core\"\n        ]\n      }\n    ],\n    \"center_overlay\": [\n      {\n        \"id\": \"05\",\n        \"title\": \"Plaque Rupture & Clot Formation\",\n        \"elements\": 3,\n        \"labels\": [\n          \"Plaque rupture diagram\",\n          \"Platelet aggregation\",\n          \"Occlusive thrombus\"\n        ]\n      },\n      {\n        \"id\": \"06\",\n        \"title\": \"Myocardial Ischemia\",\n        \"elements\": 1,\n        \"labels\": [\n          \"Heart muscle cross-section with blocked coronary artery\"\n        ]\n      }\n    ],\n    \"right_column\": [\n      {\n        \"id\": \"07\",\n        \"title\": \"Cellular Injury Cascade\",\n        \"elements\": 4,\n        \"labels\": [\n          \"Oxygen deprivation\",\n          \"Mitochondrial failure\",\n          \"Cell membrane breakdown\",\n          \"Troponin release\"\n        ]\n      },\n      {\n        \"id\": \"08\",\n        \"title\": \"Acute Heart Attack\",\n        \"elements\": 1,\n        \"labels\": [\n          \"Patient clutching chest\"\n        ]\n      },\n      {\n        \"id\": \"09\",\n        \"title\": \"Permanent Myocardial Damage\",\n        \"elements\": 1,\n        \"labels\": [\n          \"Necrotic heart tissue\"\n        ]\n      },\n      {\n        \"id\": \"10\",\n        \"title\": \"Complications\",\n        \"elements\": 2,\n        \"labels\": [\n          \"Arrhythmia\",\n          \"Heart failure\"\n        ]\n      },\n      {\n        \"id\": \"11\",\n        \"title\": \"Beyond the Heart\",\n        \"elements\": 2,\n        \"labels\": [\n          \"Reduced systemic perfusion\",\n          \"Brain and kidney impact\"\n        ]\n      }\n    ],\n    \"bottom_row\": [\n      {\n        \"id\": \"12\",\n        \"title\": \"Pain Is the Final Signal\",\n        \"elements\": 7,\n        \"labels\": [\n          \"Risk Exposure\",\n          \"Plaque Buildup\",\n          \"Artery Narrowing\",\n          \"Plaque Rupture\",\n          \"Clot Formation\",\n          \"Muscle Death\",\n          \"Man in pain\"\n        ]\n      }\n    ]\n  },\n  \"theme\": \"{argument name=\\\"disease focus\\\" default=\\\"heart attack and coronary artery blockage\\\"}\"\n}",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4016,
+    "title": "绘制金瓶梅知识图谱",
+    "category": "百科信息图",
+    "prompt": "Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect.\n\nTask: Generate a highly detailed, extremely intricate, and visually stunning \"Universal Illustrated Encyclopedia Science Infographic\" in a classic, unbranded (NO logos) scientific encyclopedia style.\n\nSubject Matter: Choose one from [People, Plants, or Animals]. \n\nSpecific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree].\n\nStyle: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional.\n\nKey Visual Requirements:\n\n1.  Lifelike 3D Effect (The Central Subject): The central subject in the \"C position\" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism).\n\n2.  Layout & Strategic White Space:\n    * Central Subject: Dominates the center, with intentional \"strategic white space\" around it to enhance the popping-out effect and make the figure the clear focal point.\n    * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content.\n\n3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web.\n\n4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese):\n    * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., \"大王乌贼\"].\n    * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms.\n    * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized.\n    * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled.\n\nSubject-Specific Module Structure (Example for general reference):\n\nA. For Humans [People]:\n   - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections)\n   - Module 2: Physiological Processes (e.g., Circulatory/Nervous System)\n   - Module 3: Historical Context & Timeline (Key Achievements)\n   - Module 4: Major Contribution Diagram (Detailed breakdown)\n   - Module 5: Cognitive Process / Psychological Insight\n   - Module 6: Genetic Profile / Evolution\n   - Module 7: Global Influence & Cultural Impact\n   - Module 8: Cultural Representations / Legacy\n\nB. For Animals:\n   - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows)\n   - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style)\n   - Module 3: Digestive & Skeletal System\n   - Module 4: Habitats & Distribution Map (with environmental details)\n   - Module 5: Unique Adaptations (e.g., camouflage, hunting tools)\n   - Module 6: Evolutionary History & Relatives\n   - Module 7: Symbiotic Relationships / Ecosystem Role\n   - Module 8: Conservation Status & Human Interaction\n\nC. For Plants:\n   - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details)\n   - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment)\n   - Module 3: Cellular Structure (Magnified circular views)\n   - Module 4: Medicinal Properties / Practical Applications (as in original original prompt)\n   - Module 5: Environmental Adaptations / Unique Features\n   - Module 6: Distribution Map & Environmental Context\n   - Module 7: Genetic Variations & Cultivation\n   - Module 8: Historical Usage & Folklore\n\nOverall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no \"DK\" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4.\n\n主题内容：潘金莲",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4017,
+    "title": "城市生命系统图谱",
+    "category": "百科信息图",
+    "prompt": "Vertical 9:16 isometric cutaway infographic \"城市生命系统图谱 / Urban Metabolism Atlas\". Smart city from sky to bedrock: skyscrapers, streets, subway, utility tunnels, water/sewage/gas/heating pipes, fiber, data center, flood tanks, aquifers, geothermal wells, bedrock. Color-coded flows for power/water/data/traffic/waste. 12 numbered panels bilingual CN/EN: 能源/水循环/交通/数据/垃圾/建筑/公共服务/ 物流/气候韧性/生态/地质/治理看板. 24h timeline at bottom. Style: engineering white paper + scientific atlas, light paper bg, crisp lines, 8K. No cyberpunk, no gibberish text, must show both above AND below ground.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4018,
+    "title": "女装的诞生全流程",
+    "category": "百科信息图",
+    "prompt": "{   \"type\": \"fashion design process infographic\",   \"title\": \"{argument name=\\\"main title\\\" default=\\\"一件女装诞生的因果链 THE CAUSAL CHAIN OF A WOMEN'S GARMENT\\\"}\",   \"subtitle\": \"从纤维，到版型，到上身 FROM FIBER TO FIT\",   \"style\": {     \"aesthetic\": \"elegant editorial, technical fashion illustration, highly detailed\",     \"color_palette\": \"{argument name=\\\"color palette\\\" default=\\\"beige, cream, and neutral tones\\\"}\"   },   \"layout\": {     \"centerpiece\": {       \"description\": \"Exploded-view illustration of a {argument name=\\\"garment type\\\" default=\\\"women's trench coat dress\\\"} showing cascading layers of fabric, pattern pieces, and stitching lines. Top shows a model wearing the finished garment.\",       \"central_list\": {         \"count\": 13,         \"type\": \"numbered steps with pointer lines\",         \"labels\": [\"01 Material\", \"02 Inspiration\", \"03 Sketch\", \"04 Fabric\", \"05 Draping\", \"06 Pattern\", \"07 Sewing\", \"08 Fitting\", \"09 Revision\", \"10 Team\", \"11 Construction\", \"12 Garment\", \"13 Collaboration\"]       }     },     \"left_column\": [       {         \"module\": \"MODULE 1: RAW MATERIAL AND FABRIC\",         \"count\": 6,         \"items\": [\"Fiber\", \"Yarn Structure\", \"Fabric Construction\", \"Weight\", \"Drape\", \"Surface Texture\"]       },       {         \"module\": \"MODULE 2: INSPIRATION AND DIRECTION\",         \"count\": 5,         \"items\": [\"Inspiration Source\", \"Color Direction\", \"Woman Image\", \"Occasion Positioning\", \"Silhouette Intention\"]       },       {         \"module\": \"MODULE 3: DESIGN SKETCH AND SILHOUETTE\",         \"count\": 7,         \"items\": [\"Design Sketch\", \"Construction Line\", \"Front Back Relationship\", \"Neckline\", \"Shoulder Line\", \"Waist Line\", \"Hem Proportion\"]       }     ],     \"right_column\": [       {         \"module\": \"MODULE 4: PATTERNMAKING AND DRAPING\",         \"count\": 6,         \"items\": [\"Draping\", \"Patternmaking\", \"Dart\", \"Panel Line\", \"Ease\", \"Grain Direction\"]       },       {         \"module\": \"MODULE 5: CUTTING AND SAMPLING\",         \"count\": 5,         \"items\": [\"Cutting\", \"Layout\", \"Sample Sewing\", \"Construction Sequence\", \"Technique Test\"]       },       {         \"module\": \"MODULE 6: FITTING AND REVISION\",         \"count\": 4,         \"items\": [\"Fitting\", \"Fit Issues\", \"Before\", \"After\"]       }     ],     \"bottom_row\": [       {         \"module\": \"MODULE 7: TEAM COLLABORATION\",         \"count\": 8,         \"items\": [\"Designer\", \"Patternmaker\", \"Fabric Buyer\", \"Sample Maker\", \"Merchandiser\", \"QC\", \"Feedback Loop\", \"Model\"]       },       {         \"module\": \"MODULE 8: FINAL GARMENT PRESENTATION\",         \"count\": 3,         \"items\": [\"Details\", \"Finished Front & Back\", \"Labels & Care\"]       },       {         \"module\": \"MODULE 9: FINAL WEAR\",         \"count\": 3,         \"items\": [\"Drape\", \"Proportion\", \"Movement in Motion\"]       },       {         \"module\": \"MODULE 10: THE CHAIN SUMMARY\",         \"count\": 8,         \"items\": [\"Material Foundation\", \"Aesthetic Judgment\", \"Structural Engineering\", \"Craft Realization\", \"Body Negotiation\", \"Team Collaboration\", \"Iterative Revision\", \"Final Garment\"]       }     ],     \"footer\": \"{argument name=\\\"footer text\\\" default=\\\"一件成衣，因无数判断而存在 A garment exists because of countless decisions.\\\"}\"   } }",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4019,
+    "title": "建筑全息说明影响图",
+    "category": "百科信息图",
+    "prompt": "著作一张[广州中山纪念堂]的全息说明影像图!结合google 真实外观照片与白色字体作为施工技术搭配图解叠加,在图片角落部位采用图框方式标注说明建筑名称。叠加各种复杂白色字体的技术标注说明,展示关键结构资料、重要数据、材料数量、细部工法,同时包含剖面图、平面图以及显著建筑/工程特点。风格:HUD平视显示、资讯图表美学、细致清晰白色2d线条、工程技术/建筑风格说明、丰富教育资讯图片说明,注释后能看到真实环境,整体图片采用垂直版面构图!",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4020,
+    "title": "人物传记资讯图",
+    "category": "百科信息图",
+    "prompt": "请生成一张关于「李小龙}」的高级人物传记资讯图海报。\n\n整体风格像科技创办人杂志专题、商业人物传记海报、创新者故事墙与资讯图表的结合。\n\n主视觉：\n画面中央以「Elon Musk}」的写实人像作为核心主体，人物神情沉稳、有远见、理性、专注，带有创办人、思想家、开拓者的气质。人像需具备电影级写实质感、自然光影、清晰五官、真实皮肤纹理与专业纪实摄影感。\n\n版面结构：\n直式 9:16 海报。\n采用干净、模组化、资讯图表式排版。\n左上角放置巨大粗体英文姓名标题。\n姓名下方加入一句身份标语，例如：\n「VISIONARY. BUILDER. PIONEER.」\n或根据人物领域自动生成合适标语。\n\n海报内容区块需包含：\n1. 人物简介\n2. 出生、教育、早期兴趣\n3. 人生历程与重要里程碑时间轴\n4. 主要公司、作品、产品或代表成就\n5. 数据亮点区，例如用户数、市值、团队规模、研究成果等\n6. 思想、哲学与领导风格\n7. 关键突破与创新\n8. 对科技、商业、文化或社会的影响\n9. 奖项、荣誉或代表性地位\n10. 人物名言区\n11. 未来愿景或 Looking Ahead 区块\n\n视觉风格：高级科技人物资讯图。\n现代杂志排版。\n干净企业风。\n清晰分区。\n细线分隔。\n卡片式资讯框。\n专业 icon 图示。\n数据区块突出。\n有层次但不杂乱。\n背景可加入与人物相关的符号元素，例如程式码、电路、火箭、AI 神经网路、产品图示、笔记纸、公司建筑、世界地图、图表、研究草稿等。\n\n配色：\n根据人物所属产业与品牌形象自动选择主色。\n科技人物可使用深蓝、白色、黑色、银色、电光蓝、墨绿或红色点缀。\n整体需有高级感、专业感、知识感。\n\n字体：\n姓名使用巨大粗体无衬线字体。\n内文使用清楚现代无衬线字体。\n标题、数字、引用语要有明显层级。\n整体像一张可收藏的名人知识海报。\n\n构图：\n资讯量丰富但不要凌乱。\n像博物馆人物展板、商业杂志封面、科技公司创办人介绍页。\n使用垂直时间轴、数据卡片、名言框、代表作品区、哲学原则区与底部总结区。\n每个资讯区块都要有 icon 与清楚标题。\n\n品质要求：\n超高解析度。\n专业资讯图设计。\n电影级写实人物肖像。\n干净、清楚、精致。\n避免乱码。\n避免错字。\n避免人物变形。\n避免低质感排版。\n避免过度拥挤。\n避免不自然五官。\n避免错误姓名。",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4021,
+    "title": "博物馆信息图",
+    "category": "百科信息图",
+    "prompt": "A museum catalog-style disassembly infographic illustrating the Rosetta Stone on an off-white, parchment-like background with a cohesive infographic board layout. At the top, a prominent title reads \"THE ROSETTA STONE,\" with a subtitle \"Key to Deciphering Ancient Egyptian Writing,\" followed by a short curatorial introduction. The left side features a structural disassembly and analytical breakdown of the stone, including an exploded view highlighting the broken, irregular top section, the original stele shape, and inscription surface zones. Close-up details with lead lines point to the distinct engraved text areas of the Hieroglyphic script, Demotic script, and Ancient Greek text. The upper right section focuses on material and craftsmanship, displaying a granodiorite texture sample, weathering details showing surface wear, and engraved surface detail of deep-cut hieroglyphs, alongside archaeological material notes. The middle right section analyzes the inscriptions and languages, with comparative examples of Hieroglyphic, Demotic, and Ancient Greek scripts and explanations on text arrangement, translation significance, and historical-cultural context. At the bottom, a horizontal \"Discovery-to-Decipherment Flowchart\" maps key milestones from its 1799 discovery to 1822 decipherment. This is accompanied by a \"Core Feature Summary\" listing material composition, date, scripts, and significance. All text is clear, neat, and readable within a focused academic museum catalog atmosphere.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4022,
+    "title": "胡雪岩故居建筑分析图\\(来源于@[空纸杯](https://www.xiaohongshu.com/user/profile/57a86a2a346094522b6a4090?channel_type=web_note_detail_r10&parent_page_channel_type=web_user_board&xsec_token=ABDwUmAUpYREF4dQh0zMjJN62IMTBbodeTrS8z6Vp0qhY=&xsec_source=pc_comment)\\)",
+    "category": "百科信息图",
+    "prompt": "生成一张[胡雪岩故居]（附件1和附件2）图片的全息说明影像图!结合google 真实外观照片与白色字体作为施工技术搭配图解叠加,在图片角落部位采用图框方式标注说明建筑名称。叠加各种复杂白色字体的技术标注说明,展示关键结构资料、重要数据、材料数量、细部工法,同时包含剖面图、平面图以及显著建筑/工程特点。风格:HUD平视显示、资讯图表美学、细致清晰白色2d线条、工程技术/建筑风格说明、丰富教育资讯图片说明,注释后能看到真实环境,整体图片采用垂直版面构图!",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 4023,
+    "title": "蒙奇奇介绍\\(来源于@[SAM🌈](https://www.xiaohongshu.com/user/profile/61cd94aa000000001000e138?channel_type=web_note_detail_r10&parent_page_channel_type=web_user_board&xsec_token=ABWQPpINbGv6ZU7T6Os3YzoiJkhLiXjUwPkJyKp1hoA0g=&xsec_source=pc_comment)\\)",
+    "category": "百科信息图",
+    "prompt": "观察蒙奇奇毛色、长相与特征，生成一张蒙奇奇介绍图文海报。 海报标题：monchhichi介绍 【规则】 ・让蒙奇奇在最中间当作主体，周围加上身体局部特写的注解介绍，主体与局部特写都要清楚可爱，并保留蒙奇奇本身的毛色特征与辨识度 ・文字须使用繁体中文，并使用带有粉笔笔触的白色可爱手写字体，排版整齐且可读性高。标题字级最大、局部特写的标题字级第二大、局部特写的描述字级最小 ・背景使用照片同款，可适当手绘插图线条当作装饰，例如：爱心、箭头、星星、小圆点、音符等 ・整体排版不要太拥挤，保有留白",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 5001,
+    "title": "官方风角色三视图设定页",
+    "category": "角色卡设定",
+    "prompt": "Official-style character reference sheet for an original fantasy swordswoman. White background,highly organized layout, front view, side view, back view, several facial expressions, clothingdetail callouts, weapon close-ups, color palette swatches, material notes, and a short worldviewsummary. Keep illustration quality consistent across all views, proportions accurate, lineworkclean, costume construction readable, labels elegant and legible, premium art-book presentation,no clutter, no branding, no gibberish text.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 5002,
+    "title": "机甲少女设定资料板",
+    "category": "角色卡设定",
+    "prompt": "Character reference sheet for an original mecha girl pilot. Include full front, side, and backviews; helmet open and closed variants; expression row; armor-part breakdowns; weapon details;propulsion module close-up; color palette; insignia system; concise lore notes. White or cool-graybackground, clean technical-label styling, premium game-art bible layout, readable labels, no textglitches.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 5003,
+    "title": "Chibi 校园女主角介绍页",
+    "category": "角色卡设定",
+    "prompt": "Cute but polished character introduction sheet for an original chibi school heroine, designed likea real visual-novel artbook page. Include standing full-body illustration, several chibiexpressions, mini CG thumbnails, name block, image color, age (adult), height, catchphrase,personality keywords, outfit notes, accessory close-ups, and pastel palette chips. Organized whitebackground, clean borders, balanced spacing, readable typography, no clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 5004,
+    "title": "古代诗人 SSR 卡面设定",
+    "category": "角色卡设定",
+    "prompt": "High-end game card design set for an original ancient Chinese poet character in SSR rarity. Mainenlarged foil-like hero card, plus smaller SR and R variants showing reduced effects. Includecostume styling, symbolic motifs, calligraphy-inspired frame design, holographic lighting effectson the rare card, stat panel, skill names, and short character introduction. Premiumcollectible-card texture, polished fantasy-historical tone, no branding, no gibberish.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 5005,
+    "title": "科幻飞行员角色卡",
+    "category": "角色卡设定",
+    "prompt": "Sci-fi pilot character sheet with a premium entertainment-design layout. Front, side, and backviews; flight suit breakdowns; helmet interface; patches; weapon holster; expression strip; colorpalette; spacecraft cockpit affinity notes; concise profile block. Keep everything neatly arrangedon a neutral background with art-director-level clarity, no text errors, no clutter.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 5006,
+    "title": "民俗治愈师角色设定页",
+    "category": "角色卡设定",
+    "prompt": "Character reference sheet for an original folklore-inspired healer. Show three-view turnaround,smiling/serious/focused expressions, talisman tools, medicine bag details, embroidery close-ups,footwear breakdown, palette swatches, and a short worldview note about villages, rituals, andseasonal healing. Elegant parchment background or white board, refined labels, clean hierarchy, nobranding.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 5007,
+    "title": "体育明星角色资料卡",
+    "category": "角色卡设定",
+    "prompt": "Sports-anime-style character sheet for an original star athlete. Include dynamic main pose, cleanfront and side standing references, facial-expression strip, jersey details, shoe close-ups,signature move diagram, team-color palette, short player profile, strengths and weaknesses block.Organized design on white background, premium card-game or guidebook finish, no text glitches.",
+    "imageCount": 0,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 5008,
+    "title": "赛博侦探角色设定",
+    "category": "角色卡设定",
+    "prompt": "Character design board for an original cyberpunk detective. Include front, side, back, alternatecoat-open version, expression row, gadget breakdowns, badge and interface details, paletteswatches, city background motif strip, and short character biography. Use a sleek grid, white ordark-gray base, refined neon accents, crisp typography zones, no clutter.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 5009,
+    "title": "吉祥物角色品牌卡",
+    "category": "角色卡设定",
+    "prompt": "Professional mascot reference sheet for an original brand character. Front/side/back views,costume breakdowns, hand and foot shape studies, expression set, scale comparison, safe-area usagenotes, color palette, mascot do-and-don't examples, and a short brand personality block. Cleanwhite presentation, vector-friendly clarity, no brand imitation, no gibberish.AR-3:4",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 5010,
+    "title": "魔王角色豪华设定页",
+    "category": "角色卡设定",
+    "prompt": "Deluxe villain character sheet for an original dark-fantasy overlord. Commanding main pose, armorand crown detail panels, front/side/back references, expression variants, weapon breakdown, magicsigil panel, color palette, silhouette exploration thumbnails, and short lore summary. Premiumconcept-art book feel, dramatic but organized layout, readable labels, no clutter.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 5011,
+    "title": "猫咪\\(动物\\)主角介绍页",
+    "category": "角色卡设定",
+    "prompt": "海报标题：XX 的介绍\n观察附图这两只猫咪的毛色、长相与特征，生成两只猫各一张猫咪介绍图文海报。\n\n海报标题：XX 的介绍\n【规则】\n・让猫咪在最中间当作主体，周围加上身体局部特写的注解介绍，主体与局部特写都要清楚可爱，并保留猫咪本身的毛色特征与辨识度\n・文字须使用繁体中文，并使用带有粉笔笔触的白色可爱手写字体，排版整齐且可读性高。标题字级最大、局部特写的标题字级第二大、局部特写的描述字级最小\n・背景使用黑色晨纸virtue colours，可适当手绘插图线条当作装饰，例如：爱心、箭头、星星、小圆点、音符等\n整体排版不要太拥挤，保有留白（可以一只猫/人物自行传照片+稍微修改就可以）",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 6001,
+    "title": "神话动作游戏开场画面",
+    "category": "UI界面与荧幕版型",
+    "prompt": "Polished game introduction screen for an original mythic action RPG heroine. Build a clear UIhierarchy with title area, subtitle, menu states, small icon language, atmospheric background keyvisual, and an elegant motion-ready composition. The heroine stands as the visual core withdramatic but controlled lighting, readable interface zones, premium materials, coherentworldbuilding, strong contrast between background art and UI panels, no broken buttons, nogibberish text, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 6002,
+    "title": "Galgame 角色介绍网站页",
+    "category": "UI界面与荧幕版型",
+    "prompt": "Character introduction webpage mockup for an original visual-novel heroine. Realistic websitelayout with header, profile column, main illustration, CG preview thumbnails, chibi companion art,self-introduction quote, name block, image color, height, catchphrase, and navigation tabs. Softromantic palette, polished web-design spacing, premium anime-game feel, all text zones clear andbelievable, no broken UI, no gibberish.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 6003,
+    "title": "武侠女主社群首页截图",
+    "category": "UI界面与荧幕版型",
+    "prompt": "Mobile social-media homepage screenshot for an original martial-arts heroine influencer. Realisticapp-style top bar, avatar, username, follower stats, post grid preview, story highlight row, and aclean content rhythm. Use a coherent visual identity based on elegant wuxia styling and modernsocial-app UX. Keep the UI believable, spacing accurate, image thumbnails attractive, no malformedicons, no broken text, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 6004,
+    "title": "Galgame 对话框手机截图",
+    "category": "UI界面与荧幕版型",
+    "prompt": "Portrait phone-screenshot-style image where an adult coser portrays an original 2D-inspiredcharacter in a casual cafe setting. Add a believable phone status bar at the top and a widesemi-transparent visual-novel dialogue box at the bottom with a matching avatar, character name,and two lines of gentle dialogue. Blend real photography with subtle anime influence, keep UIelements crisp and aligned, no broken icons, no gibberish text.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 6005,
+    "title": "历史人物社群贴文页",
+    "category": "UI界面与荧幕版型",
+    "prompt": "Concept UI screen showing a fictional historical figure's social-feed page just before a majorturning point. Include header, post cards, reply structure, reaction icons, timeline navigation,and a strong visual language that feels like a modern platform reimagined for period drama. Keeplayout polished, readable, and witty without becoming chaotic. Use legible placeholder text zonesrather than broken lettering, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 6006,
+    "title": "直播带货控制台界面",
+    "category": "UI界面与荧幕版型",
+    "prompt": "Modern livestream sales dashboard interface for a fictional lifestyle creator presentingaccessories. Main camera feed, chat column, sales analytics widgets, product card area, viewercount indicator, gift animation zone, and clean control panel. Keep the UI crisp, premium, andbelievable, with strong hierarchy and restrained neon accents. No malformed icons, no gibberishtext, no clutter.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 6007,
+    "title": "音乐播放器概念首页",
+    "category": "UI界面与荧幕版型",
+    "prompt": "High-end music player concept screen featuring a large album-art area, playback controls, playliststack, lyrics panel, mood gradient, and subtle glassmorphism. The interface should feelproduction-ready, readable, and coherent, with carefully balanced spacing and a strong visualfocal point. No broken buttons, no random text errors, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 6008,
+    "title": "购物 App 首页版型",
+    "category": "UI界面与荧幕版型",
+    "prompt": "Mobile e-commerce home screen for a fictional premium lifestyle brand. Strong hero banner, productcategories, coupon strip, featured product cards, editorial photography blocks, and bottomnavigation. Use clean modern mobile-UI logic, generous whitespace, polished product thumbnails,and readable module hierarchy. Keep icons consistent and all interface elements aligned, nogibberish text.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 6009,
+    "title": "角色数据库搜寻页",
+    "category": "UI界面与荧幕版型",
+    "prompt": "Desktop database interface for browsing original fantasy characters. Side filters, tag chips,portrait cards, stat comparison panel, detail preview drawer, and a large search bar.Dark-to-neutral UI palette with subtle accent colors, highly readable labels,art-book-meets-game-tool mood, clear card rhythm, no broken grids, no gibberish text.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 6010,
+    "title": "摄影集页面设计稿",
+    "category": "UI界面与荧幕版型",
+    "prompt": "Professional photobook page layout showing an original character or idol photo series. Combine onelarge hero image with smaller supporting frames, caption areas, page numbers, and a refinededitorial grid. Japanese-language feel in layout rhythm but use clean placeholder typographyzones. Soft margins, collectible book aesthetic, premium designer finish, no text glitches, nowatermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 7001,
+    "title": "复古骑车中的闪耀钻戒",
+    "category": "产品摄影(更多相关内容收录在Vol:12)",
+    "prompt": "Luxury lifestyle product photography of a woman's hand resting casually outside the open window or a vintage car, wearine @product. The hand is the main subject, relaxed and naturally nanging over the car door. replace the jewelry with @product,whlle preserving the exact original product shape, proportions, material,gemstones, retections, texture, one derelling unchenged 85mm lens look shallew deoth of field (f/2.8) cinematic softness.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 7002,
+    "title": "香水瓶雾面玻璃棚拍\\(Vol :12\\)",
+    "category": "产品摄影(更多相关内容收录在Vol:12)",
+    "prompt": "{\n  \"master_prompt\": {\n    \"scene_type\": \"ultra-realistic luxury skincare commercial photography\",\n    \"product\": {\n      \"type\": \"premium beauty elixir vial\",\n      \"brand_name\": \"VÉRÉLLE\",\n      \"product_name\": \"Lumière Nectar — Youth Infusions\",\n      \"container_shape\": \"tall faceted crystal vial with elegant vertical geometry\",\n      \"material\": \"optical crystal glass\",\n      \"finish\": \"prismatic clarity with soft light dispersion\",\n      \"cap_design\": \"brushed champagne-gold cap with beveled edge\",\n      \"label_design\": {\n        \"style\": \"Parisian luxury serif typography\",\n        \"primary_text\": \"Lumière Nectar\",\n        \"secondary_text\": \"Youth Infusions\",\n        \"finish\": \"champagne foil emboss with micro-engraved detailing\"\n      },\n      \"liquid_color\": \"soft golden nectar with luminous micro-pearl shimmer\"\n    },\n    \"composition\": {\n      \"placement\": \"center hero placement\",\n      \"pedestal\": \"ivory marble pedestal with subtle gold veining\",\n      \"base_surface\": \"polished reflective stone surface\",\n      \"surrounding_elements\": [\n        \"white orchid petals\",\n        \"golden honey droplets\",\n        \"chamomile blossoms\",\n        \"glass dew spheres\"\n      ],\n      \"liquid_effect\": \"soft golden mist swirl behind the vial\"\n    },\n    \"lighting\": {\n      \"style\": \"high-end beauty studio lighting\",\n      \"key_light\": \"soft frontal glow for glass clarity\",\n      \"rim_light\": \"warm rim highlights enhancing crystal edges\",\n      \"fill_light\": \"luxury soft diffusion\",\n      \"reflections\": \"controlled highlights for premium finish\"\n    },\n    \"background\": {\n      \"color\": \"warm ivory to champagne gradient\",\n      \"style\": \"clean editorial luxury backdrop\",\n      \"depth\": \"cinematic shallow depth with elegant falloff\"\n    },\n    \"camera\": {\n      \"angle\": \"slightly low hero angle\",\n      \"focus\": \"crystal edges and typography\",\n      \"depth_of_field\": \"cinematic shallow depth\",\n      \"resolution\": \"8K ultra-detailed clarity\"\n    },\n    \"mood_keywords\": [\n      \"Parisian luxury\",\n      \"timeless beauty\",\n      \"radiant skin\",\n      \"elegant purity\",\n      \"premium skincare campaign\",\n      \"refined sophistication\"\n    ]\n  }\n}",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 7003,
+    "title": "大码女装电商摄影",
+    "category": "产品摄影(更多相关内容收录在Vol:12)",
+    "prompt": "Create an ultra realistic HD portrait of young woman ( use uploaded photo 1 only for face and body ), poses on the edge of a bathroom sink in a luxurious-toned space. She has long, gracefully straight brown-ash hair that looks natural, with a strand of hair falling loosely, and she wears the outfit attached in the file (image 2). Her expression is confident yet soft, photographed from eye level with. A soft flash that evenly distributes light.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 7004,
+    "title": "菜式拍摄",
+    "category": "产品摄影(更多相关内容收录在Vol:12)",
+    "prompt": "**Authentic Indonesian food photography featuring Your uploaded image set against a rich, dark wooden tabletop with visible grain. The composition is surrounded by fresh, colorful garnishes including vine-ripened tomatoes, whole garlic cloves, kaffir lime leaves, chili peppers, and a woven bamboo basket filled with fresh lettuce and sliced vegetables. High-angle food editorial shot, utilizing dramatic, warm directional lighting that creates deep shadows and highlights texture. Photorealistic quality, extremely sharp focus on the central dish area, shallow depth of field, captured with a professional DSLR camera and a macro lens. --ar 1:1**",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 7005,
+    "title": "运动水壶沙滩定妆",
+    "category": "产品摄影(更多相关内容收录在Vol:12)",
+    "prompt": "**A photorealistic, high-key commercial product advertisement shot of your product (use the image attached as the product) leaning slightly into coarse golden-beige beach sand. The object is meticulously styled in the foreground, surrounded by several intact white and beige seashells and pieces of delicate white coral. The lighting is bright, direct natural sunlight, emphasizing the granular texture of the sand and creating strong highlights on the object. The composition is set against a vibrant tropical beach background, showcasing crystal-clear turquoise ocean water merging with a bright, sunny blue sky with soft white cumulus clouds. Extremely sharp focus on the object and immediate foreground elements, professional DSLR photography quality, shallow depth of field --ar 2:3**",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 7006,
+    "title": "小鹏汽车X极地拍摄",
+    "category": "产品摄影(更多相关内容收录在Vol:12)",
+    "prompt": "Camera completes the orbital movement to the rear view of the Xpeng GX, still set in the infinite black noir studio. The overhead spotlight dims, allowing the full-width rear LED light bar to glow with an intense, laser-red luminance, piercing the darkness like a timeline. The illuminated red bar reflects vividly off the glossy black floor.The white rear haunches provide a graphic frame against the void. The composition focuses on symmetry and design precision, symbolizing the transition of time. No humans, ultra-detailed textures.Ratio-3:4",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 7007,
+    "title": "巧克力礼盒开盒产品照",
+    "category": "产品摄影(更多相关内容收录在Vol:12)",
+    "prompt": "Premium confectionery product image showing an opened chocolate gift box with several chocolatesarranged precisely. Rich cocoa textures, satin ribbon detail, matte box paper, warm elegantlighting, fine crumbs and highlights, luxurious seasonal mood, strong hero composition, noclutter, no broken box geometry, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 7008,
+    "title": "名牌包包拍摄日记",
+    "category": "产品摄影(更多相关内容收录在Vol:12)",
+    "prompt": "A high-detail, ultra-realistic studio photograph of your product (use the image attached as the product). The object is centered on a pedestal draped entirely in heavily folded, wrinkled taupe linen fabric. To the side, a minimalist white ceramic mug holds long stems of muted green and reddish-purple dried eucalyptus, casting sharp, distinct shadows onto the flowing linen below. The backdrop is a seamless cream-colored cloth with warm, directional side lighting creating strong contrast and deep pockets of shadow. Minimalist, organic photography, professional DSLR quality, sharp focus, natural color grading.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 7009,
+    "title": "甜品售卖广告",
+    "category": "产品摄影(更多相关内容收录在Vol:12)",
+    "prompt": "A close-up, high-resolution, photorealistic shot. The main dish arranged on a pristine marble slab. More fresh elements like strawberries are scattered around on the marble surface and in the background. Strong, directional natural light from the upper right casts crisp, defined shadows, creating deep contrast. The composition is an inviting, slightly elevated close-up with a shallow depth of field, rendering the foreground elements in razor-sharp focus while beautifully blurring the light-colored wall backdrop. A high-end editorial style. Use your attached image as the object.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 7010,
+    "title": "香水广告摄影",
+    "category": "产品摄影(更多相关内容收录在Vol:12)",
+    "prompt": "Hyper-realistic luxury product reveal scene, a gloved hand (matte black or white glove)liftingapolished silver cloche dome, thick cinematic smoke spiling outward, dramatic black background,soft spotight from above, high contrast reflections on metal, the attached product image placedcentered on a reflective plate beneath the dome, product perfectly sharp, shallow depth of field.editorial fragrance campaign, 85mm lens, f/2.8, ultra-detailed, no text, no distortion",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 7011,
+    "title": "名车广告",
+    "category": "产品摄影(更多相关内容收录在Vol:12)",
+    "prompt": "A LOW-ANGLE, FULL-SHOT PHOTOGRAPH CAPTURES A VINTAGE GREY PORSCHE 911 PARKED ON A GRAVELLY SURFACE. THE CAR IS POSITIONED SLIGHTLY OFF-\nCENTER TO THE RIGHT, WITH ITS FRONT FACING THE VIEWER. THE BRIGHT BLUE SKY WITH A FEW WISPY CLOUDS FORMS THE BACKGROUND, AND A HINT OF THE OCEAN AND ROCKY COASTLINE IS VISIBLE BEHIND THE CAR. THE LIGHTING IS BRIGHT AND NATURAL, CASTING SUBTLE SHADOWS AND HIGHLIGHTING THE CAR'S SLEEK DESIGN AND WIDE FENDERS.",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 8001,
+    "title": "广州夜市摊位纪实",
+    "category": "场景摄影",
+    "prompt": "Documentary-style night-market scene in Guangzhou, captured with realistic handheld photography. Warmvendor lights, stainless counters, steam, plastic stools, scooters passing in the background,mixed fluorescent and tungsten color temperatures, wet pavement reflections, authentic crowddensity without chaos. Preserve environmental realism and candid human movement, no cinematicover-stylization, no text emphasis, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 8002,
+    "title": "晨间观测塔空景",
+    "category": "场景摄影",
+    "prompt": "Quiet morning scene at an observatory tower. Pale sunrise light, clean air, long soft shadows,subtle mist hugging the distant landscape, modern tower structure with observation deck details,minimal visitors, calm optimistic mood. Use realistic architectural scale, crisp atmosphere,balanced composition, no clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 8003,
+    "title": "雨后地铁月台场景",
+    "category": "场景摄影",
+    "prompt": "Moody urban subway platform scene after rain. Damp floor reflections, cool fluorescent overheadlights, an approaching train's subtle glow in the distance, commuters spaced naturally, signagepresent but not text-focused, cinematic yet plausible urban realism. Keep the environment sharpand believable, no distorted architecture, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 8004,
+    "title": "广东老街骑楼雨天场景",
+    "category": "场景摄影",
+    "prompt": "Realistic rainy-day scene under a Cantonese arcade with tile floors, parked scooters, slightlyfaded shop signs, rolling shutters, puddles, and cool daylight reflecting from the street. Usenatural observation-style framing, gentle rain streaks, lived-in textures, soft gray-blue palette,no empty uncanny street, no watermark.",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 8005,
+    "title": "木造温泉旅馆空景",
+    "category": "场景摄影",
+    "prompt": "Warm vintage ryokan environment scene with wooden lantern light, paper sliding doors, soft steamfrom a distant hot spring, polished wood floors, calm ambient glow, subtle film grain, intimatearchitectural atmosphere. Focus on space rather than people, preserve authenticity, no clutter, notext emphasis, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 8006,
+    "title": "海上废墟巨构场景",
+    "category": "场景摄影",
+    "prompt": "Atmospheric environment shot of a derelict sea-city at dusk. Colossal bone-white towers fused withrusted steel rise from dark water, sea fog clings to the base, shipwrecks half-submerged,occasional faint lights high above, dramatic but believable scale. Use layered silhouettes, moodyteal-and-rust palette, cinematic depth without character focus, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 8007,
+    "title": "现代玻璃园区发表会现场",
+    "category": "场景摄影",
+    "prompt": "Wide candid event photograph at a futuristic glass-and-ring campus during a keynote. Largepresentation screen, stage lighting, audience seated in arcs, clean modern architecture, handhelddocumentary angle from the crowd, realistic event atmosphere, no broken stage screens, no textglitches, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 8008,
+    "title": "海边木栈道夏日风景",
+    "category": "场景摄影",
+    "prompt": "Bright coastal boardwalk scene in early summer with warm sunlight, blue sky, lifelike planks,beach grass, distant umbrellas, and clean sea horizon. Natural travel-photography composition,believable detail, relaxed atmosphere, no overly saturated postcard look, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 8009,
+    "title": "书店窗边阅读空间",
+    "category": "场景摄影",
+    "prompt": "Calm bookstore interior near a tall window with stacked books, wood shelves, soft afternoon light,dust motes in the sunbeam, a reading chair, and a small table. Quiet lifestyle-photography mood,realistic lens rendering, no staged perfection, tactile paper texture, no clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 8010,
+    "title": "沙漠黄昏露营场景",
+    "category": "场景摄影",
+    "prompt": "Wide environmental photograph of a desert campsite at dusk. Low sun, long shadows, muted orangesky, tent fabric texture, camp lantern glow beginning to appear, surrounding dunes with fineripples, subtle wind traces, realistic travel-documentary atmosphere, no fantasy elements, nowatermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 8011,
+    "title": "观众席远拍科技发表会",
+    "category": "场景摄影",
+    "prompt": "Amateur iPhone-style crowd photo taken from a distant audience seat during a major tech keynote ata circular glass-campus venue. Speaker on stage remains recognizable as a middle-aged malepresenter in a dark top, giant presentation screen behind him, realistic audience silhouettes andraised phones in the foreground. Shot with natural handheld framing, slight digital noise,believable distance compression, indoor event lighting, realistic lens softness at the edges,documentary authenticity rather than cinematic perfection. Keep the scene plausible, no textglitches on screens, no warped people, no extra hands, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 8012,
+    "title": "大笨钟卫星图",
+    "category": "场景摄影",
+    "prompt": "A high-resolution top-down satellite map view of central {argument name=\"city\" default=\"London\"}, focused tightly on the area around {argument name=\"landmark\" default=\"Big Ben\"} and the Palace of Westminster beside the River Thames. Show a realistic aerial orthographic perspective like a modern digital map or satellite layer, with detailed rooftops, streets, trees, shadows, and brownish river water. Place the long Palace of Westminster complex vertically near the center-right, directly along the west bank of the river, with Big Ben at the northeast corner of the palace near the river edge. A bridge labeled {argument name=\"bridge name\" default=\"Westminster Bridge\"} crosses horizontally near the bottom of the frame from left to right over the river. Include 6 visible map labels total: {argument name=\"label 1\" default=\"Westminster Abbey\"}, {argument name=\"label 2\" default=\"Parliament Square\"}, Big Ben, Palace of Westminster, Westminster Bridge, and Horse Guards Parade. Also show Whitehall as a labeled road running vertically on the left side of the palace area. Surrounding details should include Westminster Abbey in the upper left quadrant, Parliament Square above the palace, Horse Guards Parade as a large sandy rectangular ground in the lower left quadrant, dense city blocks and roads on the left half, the River Thames occupying the full right side, embankments on both sides, a few boats on the river, and tree-lined streets and parks. Use natural satellite-image colors, crisp cartographic label overlays, and the look of a zoomed-in online maps screenshot.",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 9001,
+    "title": "东方水墨极简插画",
+    "category": "插画与艺术风格",
+    "prompt": "Neo-Chinese minimalist ink illustration with large negative space, calm spring palette, softlayered mist, and elegant mountain-water composition. Blend traditional ink wash with moderndesign restraint, subtle cyan-green tints, one small warm-color focal point, fine brush textures,and high-end art-poster clarity. Keep the scene poetic and breathable, no clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 9002,
+    "title": "手绘城市美食插画",
+    "category": "插画与艺术风格",
+    "prompt": "Charming hand-drawn illustrated city food map with watercolor and colored-pencil texture,simplified overhead layout, cute but organized landmarks, decorative border details, handwrittenlabels, warm food-centric palette, and collectible guidebook feel. Keep the linework lively,module distribution balanced, and the reading path clear, no clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 9003,
+    "title": "漫画破框混合媒材插画",
+    "category": "插画与艺术风格",
+    "prompt": "Hybrid illustration in which a realistic character appears to burst out of a black-and-white mangapage. Keep the comic background in high-contrast ink linework and halftone shading, withtorn-paper edges and motion debris enhancing the dimensional effect. The main figure should befully colored and highly detailed, creating a strong reality-versus-illustration contrast. Dynamicyet clean composition, no gibberish speech bubbles, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 9004,
+    "title": "现代铅笔旅游插画",
+    "category": "插画与艺术风格",
+    "prompt": "Modern pencil illustration of a classic travel-poster scene. Loose but controlled strokes, definedcontours, bright Mediterranean color blocks, screen-print texture, strong decorative composition,and contemporary graphic polish. Let the linework feel hand-drawn while preserving cleansilhouette readability, no clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 9005,
+    "title": "涂鸦速写主题插画",
+    "category": "插画与艺术风格",
+    "prompt": "Express the chosen subject in an energetic graffiti-sketch style using fast freehand outlines,exaggerated shape language, rough dry-brush color blocks, arrows, circled notes, playful markings,and sketchbook spontaneity. Keep the background mostly blank so the composition breathes. High-endart-director execution, not messy amateur doodles, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 9006,
+    "title": "平面东方奇幻城市插画",
+    "category": "插画与艺术风格",
+    "prompt": "Flat illustration of an Oriental fantasy city with flowing composition, deep black-to-redbackground, golden energy ribbon, layered landmarks, and a serene female figure integrated intothe light trail. Use clean linework plus selective color blocks, premium poster finish, mysticalyet restrained mood, no clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 9007,
+    "title": "Y2K 梦幻彩妆插画视觉",
+    "category": "插画与艺术风格",
+    "prompt": "Illustrated beauty campaign in a Y2K-inspired style using glossy neon accents, playfuliconography, chrome sparkles, translucent packaging, and youthful Gen Z energy. The compositionshould feel like a magazine illustration merged with a product ad, keeping the hierarchy clean andthe palette vibrant but controlled, no clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 9008,
+    "title": "机甲动画主视觉插画",
+    "category": "插画与艺术风格",
+    "prompt": "Painterly digital illustration of an original mecha heroine against a vast industrial seascape.Crisp line art, desaturated teal-and-rust palette, cinematic backlight, wind-driven costumeshapes, premium anime key-visual quality, layered atmospheric depth, no clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 9009,
+    "title": "植物学手绘百科插画",
+    "category": "插画与艺术风格",
+    "prompt": "Scientific-botanical illustration of an original medicinal plant on a soft archival-paperbackground. Main full-plant view in the center, smaller magnified leaf, root, flower, and seeddetails around it, delicate labels, elegant linework, soft natural color, and a refinedcollectible field-guide mood. No branding, no gibberish, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 9009,
+    "title": "超现实鸟羽礼服插画\\(Vol:7\\)",
+    "category": "插画与艺术风格",
+    "prompt": "High-fashion surreal illustration of a runway dress formed entirely by vividly colored birds,layered like living feathers around an elegant model. Dramatic stage light, dark audience blur,painterly feather detail, motion from a few birds lifting into the air, whimsical luxury mood,crisp silhouette, no clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 9010,
+    "title": "敦煌壁画风的高端艺术画作",
+    "category": "插画与艺术风格",
+    "prompt": "请以 【主题】 为核心，创作一幅 敦煌壁画风的高端艺术画作。画面采用 构图方式，以主体角色为唯一主视觉核心，表现其核心动作 / 情境的神圣瞬间。整体氛围应为 整体氛围，具有博物馆级审美、文化厚度与收藏级艺术感。\n\n主体形象要求：\n主体角色应呈现出优雅庄严、修长华贵、神性强烈的气质，姿态舒展，具有鲜明的敦煌壁画式神圣性与仪式感。面容需静穆、圣洁、含蓄、不可侵犯，带有敦煌壁画中神女 / 菩萨 / 飞天式的庄严气质，而不是普通古风美女。\n发髻高挽，佩戴复杂精美的 金饰发冠、珠链步摇、耳饰、璎珞、臂钏、腰饰，服饰华丽，衣纹流畅，线条细劲有力，富有飞天韵律与宫廷级壁画质感。衣袂、飘带、裙摆与袖口应形成富有节奏感的流动曲线，强化神圣升腾感与画面韵律。\n\n用金结构要求：\n画面需强化 结构性用金，不是零散点金，而是形成明确的奢华秩序：\n主体角色的发冠、首饰、衣缘、袖口、腰封、飘带边线、裙摆纹样采用 描金、泥金、鎏金、金线刺绣、残损金箔痕迹；\n核心神圣元素，如月轮 / 佛光 / 法轮 / 宝盖 / 莲台、云纹、莲花花瓣、宝相花、藻井纹饰、团花纹、边框装饰也应带有 清晰可见但克制高级的金色装饰；\n整体呈现 金碧辉煌但不俗艳、富丽精工但不廉价 的效果，表现出历经千年风化后仍保有金碧辉煌余韵的 残损奢华感。\n\n色彩要求：\n色彩以 赭红、朱砂、青绿、石青、石绿、土黄、象牙白 为主，辅以克制精致的 土金、鎏金。\n整体色调要 浓郁、浑厚、古雅、贵气，避免轻飘糖水色。\n背景可采用 背景主色氛围，如深邃石青天幕 / 温润古壁底色 / 暗金矿物底色与古壁肌理结合，衬托出主体的神圣与尊贵。\n\n装饰元素要求：\n画面可融入 飞天、莲花、宝相花、藻井、祥云、伎乐、团花纹、楼阁宫阙、法器、圣光圆轮、古典边框装饰 等典型敦煌视觉语言，但必须围绕主体集中分布，层级清晰，避免平均铺满全画面。\n陪衬人物控制在 陪衬人数位即可，作为礼赞与陪衬，分布在主体周围或下方，形成朝向主体的仪式感动势。她们可陪衬动作，如持莲花 / 奏琵琶 / 吹笛 / 奉花 / 托灯 / 执幡，线条轻盈流动，与主体形成呼应，但不可喧宾夺主。\n\n空间与构图要求：\n构图中应保留适度的 云气空间、圣光留白、月光或天幕留白，让画面有呼吸感。\n核心神圣元素需醒目、庄严、圆满，周围可有 鎏金光晕、圣光圆轮、细密金线轨迹，强化主题的神圣性。\n远处可点缀远景元素，如月宫楼阁 / 云中宫阙 / 佛国建筑 / 仙界天幕，但不可过多，以增强空间层次与仙界气息。\n\n材质表现要求：\n需强调古老石窟壁画与矿物颜料肌理：\n可见 斑驳、裂纹、风化、轻微剥落、历史包浆、粉化边缘、古壁肌理；\n同时保留局部 描金、残损金箔、磨蚀后的鎏金光泽，形成 “旧而贵、残而华、古而神圣” 的高级艺术质感。\n整体要求：华丽、细腻、神秘、庄严、统一、收藏级、艺术化、高级感极强。\n\n负面约束词：\n避免现代国潮风，避免商业插画感，避免普通古风美女插画，避免动漫感，避免网红审美，避免塑料质感，避免廉价土豪金，避免金色过亮过俗，避免荧光色，避免过度饱和，避免人物过多，避免背景元素过满，避免装饰平均铺满全画面，避免碎花感过重，避免视觉主次不清，避免主体不突出，避免低级堆砌感，避免平庸感，避免轻浮感，避免现代服装感，避免摄影感，避免3D建模塑料感。",
+    "imageCount": 3,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1001,
+    "title": "实体化社群贴文立体拍摄",
+    "category": "社群视觉与版型",
+    "prompt": "Create a hyper-realistic studio photograph where a social-media post interface exists as atangible 3D object. Smooth matte card body, rounded corners, accurate top bar, avatar, username,buttons, action icons, and caption area, while a real athletic woman partially emerges out of theframe into physical space. Cool gym background, soft cinematic rim light, accurate contactshadows, premium editorial realism, no text glitches, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1002,
+    "title": "九宫格偶像摄影集版型",
+    "category": "社群视觉与版型",
+    "prompt": "Vertical 3x3 photobook layout for an adult idol portrait series, preserving perfect identityconsistency across all nine frames. Clean page rhythm, soft diffused light, subtle analog grain,varied but cohesive poses, strong margins, minimal supporting graphic elements, collectiblephoto-card mood, no text clutter, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1003,
+    "title": "单日桌布月历社群卡",
+    "category": "社群视觉与版型",
+    "prompt": "Elegant single-day calendar social card with large date hierarchy, small weather line, mood quote,decorative illustration, and clean planner-style structure. Designed for easy posting onshort-video platforms or stories, refined typography zones, soft light palette, balancedinformation density, no branding, no gibberish text.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1004,
+    "title": "高密度科普卡社群模板",
+    "category": "社群视觉与版型",
+    "prompt": "Shareable knowledge-card layout optimized for social media. Large title, hero illustration, 4-6rounded modules, summary score bar, key facts, icons, and a tidy visual reading path. Light cleanbackground, subtle shadows, polished educational design language, high information density withoutcrowding, no marketing clutter, no gibberish.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1005,
+    "title": "四连幅时装 Look排版",
+    "category": "社群视觉与版型",
+    "prompt": "Four-panel fashion lookbook layout with one hero outfit image and three supporting detail frames.Premium editorial grid, generous margins, elegant alignment, muted typography zones, consistentcolor rhythm, designer-photobook quality, no text glitches, no watermark.AR-3:4",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1006,
+    "title": "角色介绍落地页社群预览",
+    "category": "社群视觉与版型",
+    "prompt": "Landing-page preview graphic for an original character introduction, mixing webpage interfacefragments with one large hero visual, profile chips, color swatches, expression thumbnails, andCTA button zones. Premium modern UI aesthetic, clear hierarchy, no broken elements, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1007,
+    "title": "产品比较信息卡版型",
+    "category": "社群视觉与版型",
+    "prompt": "Clean comparison-card design showing two or three fictional products with side-by-side featuremodules, icon rows, small score bars, short notes, and one hero image. Keep the layout readable,premium, and platform-friendly, with tidy margins and consistent module shapes. No broken text, noclutter, no watermark.AR-4:5",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1008,
+    "title": "旅游行程清单社群模板",
+    "category": "社群视觉与版型",
+    "prompt": "Story-friendly travel checklist card with destination hero image, mini map icon, top attractions,packing suggestions, weather strip, budget chips, and a soft editorial palette. Designed forshareability and readability on mobile, no clutter, no gibberish text, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1009,
+    "title": "角色收藏卡系列封面",
+    "category": "社群视觉与版型",
+    "prompt": "Collectible series-cover card for a set of original character profiles. Strong title band, largehero portrait, rarity or category badge, small preview slots for upcoming entries, premiumfoil-inspired accents, clean spacing, no broken text, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1010,
+    "title": "品牌风格指南摘要页",
+    "category": "社群视觉与版型",
+    "prompt": "Condensed brand-style guide page for a fictional visual identity. Include logo-safe zoneplaceholder, color palette, typography scale, image style examples, social-post mockups, and keymood descriptors. Professional design-system layout, neutral background, clean dividers, highlylegible structure, no text glitches, no watermark.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1011,
+    "title": "真迹书法",
+    "category": "社群视觉与版型",
+    "prompt": "提示词：生成【名篇名称】真迹图片，请结合作品情感核进行生图",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1011,
+    "title": "人物关系图",
+    "category": "社群视觉与版型",
+    "prompt": "请根据【主题】，生成一张高设计感的人物关系图海报。要求这张图不是普通插画，而是兼具信息可视化、叙事结构、海报设计感和作品风格还原度的人物关系图。\n\n请自动完成以下内容：\n- 识别该主题对应的作品及其核心设定\n- 提取最具代表性的 6–12 位关键人物，必要时不超过 15 位\n- 识别并展示关键人物关系，包括血缘、爱情、友情、联盟、敌对、师徒、主从、操控、背叛、秘密关系等\n- 自动按作品特点选择合适的构图方式，如主角中心型、双核心对峙型、阵营分区型、家族谱系型或时间演变型\n- 自动提炼作品的风格DNA，包括色彩、世界观符号、材质纹理、情绪氛围、排版语言和代表性元素\n- 将这些风格元素转化为人物关系图的整体视觉设计，而不是简单复制某张官方海报\n- 用不同颜色、线型、箭头区分不同关系，保证线条清晰、层次分明、不杂乱\n- 核心人物最突出，重要人物次之，次级人物弱化，形成明确视觉层级\n- 每个人物名称清晰可读，必要时可加入身份或阵营标签\n\n最终成品应满足：\n- 一眼看懂人物主次和关键关系\n- 具有明显的原作品气质与设定感\n- 兼具信息图的清晰度与海报的高级设计感\n- 画面统一、精致、完整、适合社交媒体传播或海报展示\n- 避免廉价流程图感、避免杂乱堆砌、避免信息过载",
+    "imageCount": 4,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1012,
+    "title": "中西医手写药方（真假难辨）",
+    "category": "社群视觉与版型",
+    "prompt": "生成一张手写中/西医药方图\n\n极简提示词直接渲染出图，而且它自己脑补了：\n1、药方内容手写体呈现\n2、画面场景、纸张材质、印章等细节\n3、还主动把姓名、印章敏感信息打码了",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1013,
+    "title": "看掌纹",
+    "category": "社群视觉与版型",
+    "prompt": "``给你这个玄掌纹。请通过中国的学、指纹分析，以及一些中医学理论，严格算命大师的技术帮我分析这个人的手纹。请用这种线条标记写明每一个要点，能够对他的命运有所保障。要求如下： 1.采用易经或中医学理论分析，听觉预警和精准分析，用户要觉得准。 2.标明各个线条的关键点 3.至少提供十个点的分析报告``你甚至可以多介绍自己的情况，或者甚至要了解的方向，你可以要求它从天机里出来，来洞见特定的方面。",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1014,
+    "title": "立体地形图",
+    "category": "社群视觉与版型",
+    "prompt": "请根据【主题】创作一张高度完成、高尖端、适合系列发布的「地景档案模型/景观档案」这不是普通地图，也不是普通风景插画或城市效果图，而是一张结合“二维地图图纸+立体高端立体区域模型+专业说明系统+博物馆展陈感”的档案式景观图。画面需要像一幅真实出来制作的地理研究模型、城市规划沙盘、建筑模型或世界观设定展品，具有专业、克制、精密、可征服的高级地形。 【基础设定】主题：【主题，例如火山口湖/广州/重庆山城/海岛城市 / 古城遗址 / 末日废墟 / 幻想大陆 / 游戏主城】 主题类型：【自然地貌 / 城市空间 / 混合景观】 核心主体：【核心主体，如火山口、峡谷、山脉、湖泊关系、CBD、老城区、地标群、岛屿城市、定居群、主城区域】 内容重点：【重点内容，如地点高差 / 城市地标 / 路网结构 / 水系 / 自然与城市 / 设定集展示】风格方向：【风格方向，例如地理测绘风、纸雕模型风、建筑提案风、博物馆档案风、城市规划风、游戏设定集风】 主色调：【主色调，例如米白、浅灰、羊皮纸白、沙色、雪白】 辅助色：【辅助色，例如土褐、岩灰、冷灰、淡蓝、苔绿】 外围颜色：【外围色，黑色细线、红色、蓝色、蓝色水文线、编号标记】画幅比例：【画幅比例，例如16:9横版 / 3:4竖版 / 4:5竖版 / 1:1方图】 【画面结构】画面主体是一块放置在干净桌面或白色布曲面的地图模型板。底板具有真实厚度，边缘可见剖面结构，像一个精致的地图切片或模型底座。地图表面覆盖但克制的信息层，等高线、道路网络、水文线、边界边界、纹理地理、坐标感、轻微和图形轮廓。在地图中央或偏中心区域，从二维地图中立体“生长”出一个立体主体模型，成为整张图的视觉核心。如果【主题类型】为自然地貌：主体为山体、峡谷、火山口、湖泊、盆地、岛屿、冰川、断层、海岸线等构成，强调视线高差、地形等高线结构、岩壁纹理和自然地貌。如果【主题类型】为城市空间：主体为核心城区、CBD、老城街区、地标建筑群、滨水区、路网节点、桥梁、水系、公园绿地等构成，强调建筑体块、城市识别度、空间层次与规划结构。如果【主题类型】为混合景观： 需同时整合自然视线与人工建成环境，如山城、海岛城市、古城遗址、末日废墟、幻想主城、科幻基地等关系，让自然地貌与城市结构共同构成关系核心。 景观【要求】 - 模型表面保留地图图纸感与专业信息感 - 视线区域应有高线、坡面层次、储备与洼地等 - 建筑区域应有体感、街区和清晰度 - 军队采用低丛林淡蓝色表现 -绿地、森林、公园、山体可用苔绿色或低水渠绿色表现 - 路网、路径、交通景观或探索线路可用细线表现，但不要喧宾夺主 - 若有地标建筑或重点结构，应具有明确的识别度 - 若有幻想、科幻或游戏设定元素，应保留档案模型和图纸展示感，而不是系统纯示意图 【说明】 地图边缘需要设计完整而克制的说明模块，包括： - 外框线和框线 - 尺 - 内图例区 - 标题区 - 档案编号 - 索引标记 - 注释标签 - 简洁的符号说明 文字必需全部强制性，但整体必须呈现真实、清晰、精密、有秩序的档案式排版结构。 【构图与镜头】采用斜视角等轴测或沙盘式构图，镜头从上方约30到45度观察整块模型板，让观众同时看到平面主体高度、边缘厚度和指示区。重心集中在中央主体模型，阅读路径为：先看核心主体，再看周边纬度/路网/水系/街区信息，最后看图例、比例块和说明区。 【材质与光影】整体需要具有真实模型摄影边界： - 厚度 - 映射印刷轮廓 -纸雕或沙盘模型感 - 建筑模型或地形轮廓 - 柔和自然光 - 细腻真实阴影 - 干净背景 - 低灌溉、高级、克制避免卡通化、廉价游戏UI感、过度杂乱、过度炫技，重点突出“底板+立体主体+专业说明系统”的统一视觉。 最终效果类似于一张可以用于地理科普、城市研究、建筑主题、文旅风景专题、世界观设定集或高端系列封面的地景档案模型图。\n\n这不是普通地图，也不是普通风景插画或城市效果图，而是一张结合“二维地图图纸 + 三维立体区域模型 + 专业说明系统 + 博物馆展陈感”的高端档案式视觉图。画面需要像一件被真实制作出来的地理研究模型、城市规划沙盘、建筑提案模型或世界观设定展品，具有专业、克制、精密、可触摸的高级质感。\n\n【基础设定】\n主题：【主题，例如火山口湖 / 广州 / 重庆山城 / 海岛城市 / 古城遗址 / 末日废墟 / 幻想大陆 / 游戏主城】\n主题类型：【自然地貌 / 城市空间 / 混合景观】\n核心主体：【核心主体，例如火山口、峡谷、山脉、湖泊、CBD、老城区、地标群、岛屿城市、遗址群、主城区域】\n内容重点：【内容重点，例如地形高差 / 城市地标 / 路网结构 / 水系关系 / 自然与城市关系 / 设定集展示】\n风格方向：【风格方向，例如地理测绘风、纸雕模型风、建筑提案风、博物馆档案风、城市规划风、游戏设定集风】\n主色调：【主色调，例如米白、浅灰、羊皮纸白、沙色、雪白】\n辅助色：【辅助色，例如土褐、岩灰、冷灰、淡蓝、苔绿】\n点缀色：【点缀色，例如黑色细线、红色路线、蓝色水文线、黄色编号标记】\n画幅比例：【画幅比例，例如16:9横版 / 3:4竖版 / 4:5竖版 / 1:1方图】\n\n【画面结构】\n画面主体是一块放置在干净桌面或白色布面上的矩形地图模型板。底板具有真实厚度，边缘可见剖面结构，像一块精致的地图切片或模型底座。地图表面覆盖清晰但克制的信息层，包括等高线、道路网络、水文线、分区边界、地理纹理、坐标感、轻微标注和图纸边框。\n\n在地图中央或偏中心区域，从二维地图中立体“生长”出一个三维主体模型，成为整张图的视觉核心。\n\n如果【主题类型】为自然地貌：\n主体可由山体、峡谷、火山口、湖泊、盆地、岛屿、冰川、断层、海岸线等构成，强调地形高差、层叠等高线结构、岩壁纹理和自然地貌起伏。\n\n如果【主题类型】为城市空间：\n主体可由核心城区、CBD、老城街区、地标建筑群、滨水区、路网节点、桥梁、水系、公园绿地等构成，强调建筑体块、城市识别度、空间层次与规划结构。\n\n如果【主题类型】为混合景观：\n需同时整合自然地形与人工建成环境，例如山城、海岛城市、古城遗址、末日废墟、幻想主城、科幻基地等，让自然地貌与城市结构共同构成核心视觉。\n\n【细节要求】\n- 模型表面保留地图图纸感与专业信息感\n- 地形区域应有等高线、坡面层次、凹陷与起伏关系\n- 建筑区域应有体块感、街区关系和清晰层次\n- 水域使用低饱和淡蓝色表现\n- 绿地、森林、公园、山体可用苔绿色或低饱和绿色表现\n- 路网、路径、交通轴线或探索线路可用细线表现，但不要喧宾夺主\n- 若有地标建筑或重点结构，应具备明确识别度\n- 若有幻想、科幻或游戏设定元素，应保留档案模型和图纸展示感，而不是做成纯场景插画\n\n【说明系统】\n地图板边缘需要设计完整而克制的说明模块，包括：\n- 外框线和内框线\n- 比例尺\n- 图例区\n- 标题区\n- 档案编号\n- 索引标记\n- 注释标签\n- 简洁的符号说明\n文字不必全部可读，但整体必须呈现真实、清晰、精密、有秩序的档案式排版结构。\n\n【构图与镜头】\n采用斜俯视等轴测或沙盘式构图，镜头从上方约30到45度观察整块模型板，让观众同时看到地图平面、立体主体高度、边缘厚度和说明区。视觉重心集中在中央主体模型，阅读路径为：先看核心主体，再看周边地形/路网/水系/街区信息，最后看图例、比例尺和说明区。\n\n【材质与光影】\n整体需要具有真实模型摄影质感：\n- 纸张纹理\n- 地图印刷质感\n- 纸雕或沙盘模型感\n- 建筑模型或地形切片质感\n- 柔和自然光\n- 细腻真实阴影\n- 干净背景\n- 低饱和、高级、克制\n避免卡通化、廉价游戏UI感、过度杂乱、过度炫技，重点突出“地图底板 + 立体主体 + 专业说明系统”的统一视觉。\n\n最终效果应像一张可以用于地理科普、城市研究、建筑提案、文旅视觉专题、世界观设定集或高端系列封面的地景档案模型图。",
+    "imageCount": 3,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1015,
+    "title": "面相手相测评",
+    "category": "社群视觉与版型",
+    "prompt": "请根据我上传的【手部照片/脸部照片/手脸组合照片】，创作一张高完成度、有设计感、适合分享的「东方玄学分析报告图」。这不是普通的照片说明，也不是简单的娱乐占卜，而是一张结合【中国传统手相、面相、易经五行、中医望诊气色理论】的视觉化分析图。整体应呈现出“命理师分析报告+古籍玄学注解+高级视觉海报”的感觉，让用户能洞察看到关键特征、对应解释和趋势预警。 【识别与分析要求】请先判断图片中包含的是： 1. 手部：重点分析掌纹、掌丘、手型、指形、指节指纹、要走势、生命线、智慧线、情感线、事业线、财运线等可见。 2. 脸部：重点分析额头、眉眼、鼻梁、关键骨、法令、嘴型、下巴、脸部一致性、气色、五官形态。 3. 如果同时包含手和脸，请综合分析，重复堆叠，形成统一判断。请至少提炼【10个关键分析点】，每个分析点都要： - 可见特征：指出照片中能看到的具体位置或形态。 - 玄学解释：结合手相、面相、易经五行或传统命理语言进行分析。 - 趋势提示：用“倾向、容易、需要、适合、未来时间可能”等方式表达。 - 行动建议：给出一个现实的提醒，例如情绪管理、作息、事业活力、谨慎、财务规划等。 【包括警示要求】请在图片中使用清晰的线条、箭头、订单或编号标签，标明每个关键位置：- 手相图可标注：线、智慧线、感情线、事业线、掌丘、指节、拇指根部、食指长度、无名指比例、掌心纹路交汇点等。 - 面相图可标注：额头、眉眼、鼻梁、法令、法令纹、嘴角、下巴、耳形、面部中庭、气色区域等。 - 每个标注点用01、02、03……编号，右边对应下方的骨分析说明。 - 【风格】整体风格要符合东方学、命理、手相、面相的调性： - 主色调：米白、宣纸色，扩展：深墨黑、玄青、古铜金、暗报告红 - 风格质感：神秘、克制、高级、古籍感、命理感。 -可加入微小元素：八卦纹、罗盘、五行符号、古籍、星盘细线、朱砂印章、宣纸纹理。 - - 排版要像高级杂志信息图，而不是杂乱截图。 【版式设计】 宽高比设为3:4 版面结构建议： 1. 顶部：标题区标题相当于「手相面相玄学分析报告」「东方命理特征解读」「掌纹与面相趋势观察」等内容，要符合用户上传的图片。 2. 中间：主体照片分析区保留手部或恐怖主题，加入编号、箭头和关键线条标注。 3. 侧边或下方：十点分析区每一点用简短+2-3行说明，不要文字太小。 4. 底部：综合结论区总结此人的命运因果、事业财运、人际情感、健康作息和近期提醒。 【语气】分析内容语言借鉴传统玄学味道，但不要绝对化，不要标题说“肯定”“一定会发财”“一定有灾”。可以使用： - “此纹路显示其人多半……” - “从五行气象看，偏向……”-“此处若纹路明显，通常代表……”-“近期需要关注……”-“适合走……方向”-“建议在输出目标”【输出目标】请最终生成一张完整的景观分析图，至少包含10个编号分析点。整体要让人一眼看到“哪里被分析了、什么暗示、有什么提醒”，有对应玄学的作用，又是专业布局版和高级设计感。注意：-只根据图片中可见特征分析，不要编辑看不见的信息。 - 不做医学诊断，不给出疾病结论；中医气色内容只作为传统文化角度的生活提醒。 - 不要出现过多小字，确保手机上也能清晰阅读。",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1016,
+    "title": "-医美方案图",
+    "category": "社群视觉与版型",
+    "prompt": "你是顶尖医美整形美容设计师、面部美容分析师与高端人像修图蓝图设计师。请生成一张真实高清的“医美整容术前对比蓝图”，采用左右双并栏布局，整体面向高端专业医疗美容整形机构的案例真实展示图。 【核心目标】本图的重点不是普通磨皮修图，而是“医美整形对照强对比案例图”。左右必须为同一人物、同一角度、同一表情、同一光线方向，但高精度效果术前明显提升，立即形成可见的强烈差异。要求对称差异明显大于普通磨皮修图，重点突出鼻部、眼周、中面部、皮肤、年轻化等部位的变化。整体风格必须真实、高清、专业、高级、自然，不能夸张，也不能塑料假脸。【整体风格必须真实、高清、专业、高级、自然，不能夸张，也不能塑料假脸。【整体风格必须真实、高清、专业、高级、自然，不能夸张，也不能塑料假脸。】 - 横向双栏构图，左右并排。 - 左侧为“术前分析”，右侧为“京都效果”。 - - 画面重点聚焦焦点，不要让背景或噪宾夺主。 - 背景采用清晰的白色、浅灰色或高级医美空间。 - 整体画质高清、细节细节、皮肤纹理自然可见。 - 右侧必须保留明显的术前问题，但不要丑化到失真，要像真实的普通人术前状态。 - 术前问题要相对更明显一些，以拉开对比，但不包括： - 面部呈偏钝，尚未平滑 - 下颌线模糊，下面部略宽 - 下巴后缩或比例欠佳 - 鼻梁偏低，立体度不足 - 鼻头圆偏钝大 -鼻翼略宽，鼻部精致感不足 - 双眼不够有神，眼型一般 - 黑眼圈 - 眼袋明显，眼周浮肿 - 中面部略凹陷，苹果肌支撑感不足 - 法令纹较明显 - 面部轻微不对称 - 眉形凌乱，精致度不足 - 皮肤暗沉 - 肤色不均 - 面颊轻微泛红 - T区或面部有油光 - 皮肤纹理粗糙感更明显 - 脸部淡发黄 - 发丝眉毛，碎发轮廓，发蓬松度不足 -使用精准红色医美分析警示指出需要改善的位置。 - 标注方式包含：红色箭头、红色商战、红色虚线、红色辅助线、红色对策攻略、面部比例分析线。 - 每个问题点旁边都要有相应备注的中文修改整指示。 - 右侧必须有“术前分析”。 - 右侧整体效果像医生或医美机构做的专业术前分析图。 【右侧必须出现的中文标记指示】 - 细化皮肤纹理 - 减少肤色油光 - 皮肤标题 -改善面部泛红 - 调整眉形线条 - 优化眼部整形 - 淡化黑眼圈 - 眼袋浮肿 - 抬高鼻梁 - 缩小鼻头 - 收窄鼻翼 - 提升中眉毛度 - 淡化法令纹 - 下颌线 - 改善收窄清晰部下面统一 - 优化下巴比例 - 改善面部感 - 约提亮牙齿 - 整理碎发 - 增加头发自然蓬松感 - 平衡整体光线 - 柔化面板 【右侧背景全部红色与中文方案，明显改善了人像。 - - 右侧必须有“矫正术前”效果，做到可以看出“医美整形后”的变化。 - 右侧只显示矫正效果，不添加红色标记。 - 右侧必须有“右侧矫正效果”标题。 【右侧必须有“矫正术”标题。 【右侧必须有“矫正术”标题。 【右侧必须有“矫正术”标题。】 1. 嗅部变化必须明显 - 鼻梁明显突然抬高，鼻背线条更直更挺 - 鼻头明显缩小，更精致秀气 - 鼻翼明显收窄，更协调 -鼻部整体立体度显着增强 - 要让人看得见鼻整形后的精致感 2. 面部表情变化必须明显 - 下颌线更清晰利落 - 下部明显更收窄 - 脸型更平滑、更精致、更精致 - 下巴比例更协调，稍微前移变得更立体 - 面部表情从偏钝变得更清晰 - 视觉上有明显“小脸化、精致化、更优化”的效果 3. 眼周变化必须明显 - 黑眼圈明显淡化 - 眼袋和肿胀明显减少 -眼裂形态更自然皱纹，眼睛更神采 - 双眼看起来更精神、更年轻 - 但不要夸张成欧大双眼皮，保持亚洲审美 4. 中面部年轻化变化必须 - 中面部肤色提升 - 苹果肌支撑感更好 - 法令纹明显变浅 - 面部整体轮廓更年轻、更精神、更精神 5. 皮肤变化必须 - 皮肤更胖 - 皮肤更透亮 - 肤色更明显 - 暗沉明显改善 - 泛红明显减少 -油光明显减少 - 皮肤肤色要好，但不能过度，仍要保留自然的皮肤纹理 6.精致化变化 - 眉形更清晰、更多设计感 - 牙齿看起来提亮但自然 - 发丝更整齐，碎发减少 - 头发蓬更松自然 - 补光更平衡，面部受光更高级 - 更肤色，更高级医美背景广告【差异强化要求】 - 术前与明显差异细节必须明显“拉大”。 -不要只是轻微修饰，不要只是简单皮。 - 要突出“鼻综合提升 + 简约+眼周年轻化 + 肤质提升”的综合医美变化。 - 左右差异应达到真实医美案例图的级别。 - 重点让观者瞬间注意到： - 鼻子更高精致 - 脸更小更立体 - 下颌线更清晰 - 眼周更年轻 - 皮肤更高级更干净 -术前更普通，辫子更精致、更上镜、更年轻，但仍然是同一个人。 - 保留人物原有特征身份，不要换脸，不要变成另一个人。 - 斜度提升幅度可以比经常修图更大，但真实必须可信。 【文字与标记要求】 - 右侧所有标记文字必须是中文。 - 中文标记要轻微、专业易读。 - 标记标记布相当，避免出现关键五官。 - 不要出现乱码，不要出现错误文字。 - 右侧有红色分析标记，右侧无标记。 【风格要求】 - 真实摄影风 - 高清人像 - 专业医美案例风 - 高级、干净、简洁 - 类似轮廓机构案例展示宣传图- 不是插画，不是漫画，不是概念图【违规要求】 - 不要漫画风 - 不要插画风 - 不要夸张造型整容 - 不要整成网红脸 - 不要塑料皮肤 - 不要过度磨皮 - 不要人工智能感过强 - 不要假装变成完全不同的人 - 低比例 - 不要普通拼图感 - 不要额外说明文字 - 不要复杂杂乱背景 - 不要出现文字乱码 - 不要出现文字乱码 【最终输出要求】 只输出一张左右双医美整容对照蓝图成图： - 右边：“前分析”——未经修饰的术前原始人像+红色医美分析敏锐+中文修改整指令 - 右边：“恐术效果”——明显改善后的自然真实刑人像最终效果必须真实、高清、专业、高级，并且前后差异显着，迅速可见整容医美变化。",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1017,
+    "title": "-九宫格电影分镜头",
+    "category": "社群视觉与版型",
+    "prompt": "一个电影般的 3x3 故事板网格，展示了夜间现代便利店内的戏剧性动作序列。风格是黑暗、忧郁、高端的电影剧照、逼真的灯光、轻微的青绿色渐变、浅景深、动作镜头中的运动模糊。 9 个面板中的每一个都应由黑色细边框分隔，形成一个干净的故事板布局。非常重要：每个画面左上角都有白色小字，显示：镜头编号（镜头 1-9）、摄影机类型（例如 ARRI Alexa Mini LF）、镜头（例如 35mm、50mm、85mm）。每帧画面底部都有简洁的英文电影字幕，描述动作。保持人物形象一致：一位年轻、运动型的亚裔女性，精力充沛、体格健壮，身材匀称，表情生动而专注，身穿粉色吊带运动上衣和粉色运动迷你裙，运动装扮实用且适合快速运动。⸻ 场景分解（必须严格遵循构图）：镜头 1 – 中景，35mm。一位年轻、运动型的女性站在便利店的过道里，随意地看着一包零食。她穿着粉色吊带运动上衣和粉色运动迷你裙。荧光灯光线，气氛平静。镜头 2 – 远景，24mm。商店大门猛地打开。一大群全副武装的战术士兵冲了进来。镜头3——过肩镜头，50毫米。从女子身后拍摄，镜头对准一排士兵，他们正用步枪瞄准她。镜头4——特写镜头，85毫米。女子的眼神锐利而专注，展现出强烈的决心和爆发力。背景略微虚化。紧张感逐渐增强。镜头5——动态模糊追踪镜头，35毫米。女子突然以超人的速度向前冲去。她粉色的运动服随着动作飘动。士兵们的身影变得模糊。镜头6——广角动作镜头，28毫米。她击倒了多名空中士兵，摆出动感的战斗姿势，展现出强大的运动能力，碎片飞溅。镜头7——低角度镜头，35毫米。近身搏斗：女子压制地面上的士兵，动作快速而凶猛，展现出力量、敏捷和控制力。镜头8——广角后续镜头，24毫米。所有士兵都倒下了。女人站在商店中央，周围是倒下的尸体，呼吸平稳，神态镇定，气场强大。镜头9 – 中景广角镜头，35毫米胶片。女人平静地站在一片狼藉的商店里，毫发无损。货架凌乱不堪，混乱过后一片寂静。她粉色的运动服与昏暗的电影化环境形成鲜明对比。⸻ 风格关键词：电影感、剧照、超写实、戏剧性光线、青色调色、浅景深、动态模糊、高细节、8K、故事板布局、网格构图、专业电影制作、ARRI Alexa风格",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1018,
+    "title": "-我的造型室",
+    "category": "社群视觉与版型",
+    "prompt": "请根据我上传的人像照片，制作一张高质感、杂志风穿搭分析图卡，版面干净时尚，如同专业形象顾问报告书。保留主角原本五官、肤色、脸型与身材等真实特征，通过左右或并排对比方式，展示不同服装穿在主角身上的效果，清楚区分“适合版型”与“不适合版型”，整体以视觉呈现为主，只使用简短标签（例如：推荐、普通、避免），不要加入长段文字。信息清楚，影像300dpi。需包含：穿搭效果对比、3套推荐穿搭（此部分的发型可随穿搭变化，但以我现有发型下可调整的造型为主，意思就是不换发色、头发长短、发质不变，只以个人在家烫卷、拉直、编发、扎起或放下头发、配上发饰、发带等方式来改变，但若造型本身适合单纯的造型，则无需特意变化。）、搭配实际售卖中的单品品牌/品项/港币价格/该套穿搭重点色系(图块示意即可)、推荐单品清单(平价高CP值品项，含品牌/该品项照片or图像示意图/品项名/港币价位)、配件推荐、适合我的颜色、小提醒。若上传照片透视非正面，请主动帮忙校正。请从KPOP idol/演员中，寻找推荐参考对象2-3名。示意图以真实体重/照片中的体型状态真实呈现，不须特意调整使视觉上更胖或更瘦。\n\n发型分析：请根据我上传的人像照片，制作一张高质感个人发型分析图卡。保留主角原本五官、脸型与真实特征，通过左右或并排对比方式，展示不同发型套用在主角身上的效果，清楚区分“最适合”“普通”与“不建议”发型，让人一眼看出哪些发型最修饰脸型、提升气质与整体颜值。可比较长发、短发、刘海、卷发、直发、层次剪裁、绑发造型等。版面设计需干净时尚、像专业造型顾问报告，整体以视觉呈现为主，只使用简短标签，不要加入长段文字。高解析度，信息清楚，适合社群分享。\n\n色彩分析：请根据我上传的人像照片，制作一张高质感个人色彩分析图卡。保留主角原本五官、肤色、脸型与真实特征，通过左右或并排对比方式，展示不同服装颜色穿在主角身上的效果，清楚区分“适合色”与“不适合色”，让人一眼看出哪些颜色最衬肤色、提升气色与整体质感。版面设计需干净时尚、像专业形象顾问报告，整体以视觉呈现为主，只使用简短标签（例如：推荐、普通、避免），不要加入长段文字。高解析度，信息清楚，适合社群分享。\n\n指令：请根据我上传的人像照片，制作一张高质感“妆容分析指南”信息图表，整体为中文版本，风格干净时尚、像美妆杂志专栏。以原人物五官为基础，保留真实长相与辨识度，不过度修图。版面采用视觉优先设计，重点用图像呈现，文字精简，不要长段落。",
+    "imageCount": 4,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1101,
+    "title": "室内材料灵感板：浴室材料 Moodboard",
+    "category": "建筑与空间设计专辑",
+    "prompt": "Create a high-end interior design material moodboard based on the uploaded bathroom interior reference image. Extract the visible materials, colors, and textures from the scene, including warm beige marble, natural stone, walnut wood, woven jute texture, linen fabric, soft towels, matte ceramic objects, amber glass bottles, dark metal accents, and muted earthy color swatches.\nArrange all materials as realistic physical samples on a refined neutral background, using an artistic layered composition similar to luxury interior design boards. Keep the moodboard elegant, tactile, calm, and premium. Add soft studio lighting, natural shadows, subtle depth, and carefully balanced spacing. Include a small inset reference image of the original interior scene in one corner, with a clean white border and a curved arrow pointing from the reference image toward the material composition.\nThe final image should feel like a professional interior design material board for a client presentation, with warm natural tones, spa-like atmosphere, and refined architectural styling.\n**Negative Prompt**\nNo random materials, no unrelated colors, no cheap catalog layout, no messy collage, no plastic textures, no overly bright colors, no fake brand logos, no unreadable labels, no cluttered background, no cartoon style.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1102,
+    "title": "Architectural Concept Board：空间概念分析图板",
+    "category": "建筑与空间设计专辑",
+    "prompt": "Create a professional architectural concept board on a clean white background based on the uploaded bathroom interior reference. Organize the board with a clear architectural presentation layout, including a characteristic plan diagram, a section diagram, a large axonometric interior diagram, five small step-by-step massing or spatial evolution diagrams, material samples, inspiration images, and concise annotation labels.\n\nThe design should show a warm natural bathroom concept with beige marble, walnut cabinetry, soft linen towels, jute rug texture, indoor plants, natural daylight, mirror wall, vanity counter, bathtub plinth, and refined spa-like atmosphere. Use precise black linework, soft beige and warm wood tones, clean arrows, small technical notes, and balanced spacing.\nThe board should look like a high-end architecture studio presentation sheet or interior design portfolio page. Keep all diagrams readable, minimal, elegant, and logically arranged.\n\nNegative Prompt\nNo messy layout, no random diagrams, no unreadable text, no excessive colors, no poster-like graphic design, no cartoon style, no overdecorated composition, no inaccurate perspective, no chaotic arrows.",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1103,
+    "title": "Concept Analysis Moodboard：建筑项目概念分析板",
+    "category": "建筑与空间设计专辑",
+    "prompt": "Create a professional architectural concept analysis moodboard on a clean white background based on the uploaded architectural project image. Generate a clear characteristic plan diagram, section diagram, large axonometric architectural diagram, and five small massing evolution diagrams showing the form development step by step.\n\nAdd architectural material samples, facade texture swatches, landscape context references, structural logic notes, and clean technical annotations. Use precise linework, minimal black typography, subtle gray shadows, architectural diagram aesthetics, and a refined high-end design studio presentation board layout.\n\nThe final image should look like an architecture portfolio concept board, clearly explaining the spatial logic, massing strategy, material palette, and design concept of the building.\n\n**Negative Prompt**\nNo chaotic layout, no random text, no unreadable labels, no fantasy elements, no colorful poster style, no messy material samples, no distorted diagrams, no excessive decoration.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1104,
+    "title": "Exploded Axonometric Model：完整建筑构造爆炸轴测",
+    "category": "建筑与空间设计专辑",
+    "prompt": "Create a detailed exploded axonometric architectural model of the building, separating each structural layer vertically to reveal its internal components. Show roof membrane and insulation, roof truss, lighting fixtures, ceiling grid, wall insulation, glass curtain wall, stone cladding, subfloor system, plywood underlayment, plumbing lines, HVAC ductwork, electrical conduit and panels, steel columns and beams, foundation slab, and concrete footings.\n\nUse precise architectural linework, realistic but simplified materials, technical shading, clean white background, and clear annotation labels pointing to every major element. Each layer should be clearly offset vertically to display the construction logic. The final image should look like a professional high-end architectural cutaway diagram.\n\n**Negative Prompt**\nNo chaotic floating parts, no unrealistic structural system, no excessive mechanical details, no messy labels, no incorrect perspective, no fantasy architecture, no colorful poster style, no unreadable text.",
+    "imageCount": 2,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1105,
+    "title": "高端建筑 / 室内材料板",
+    "category": "建筑与空间设计专辑",
+    "prompt": "Create a high-end architectural material moodboard using only the materials visible in the uploaded building or interior scene. Extract the key materials from the image, including brick, copper metal, tinted glass, stone, concrete, dark metal, fabric, wood, and matching color swatches.\n\nArrange the samples as realistic physical material tiles in an artistic layered composition similar to luxury architecture and interior design boards. Use a refined neutral background, soft studio lighting, realistic shadows, subtle depth, and premium editorial styling. Keep the material colors and textures consistent with the original scene.\n\nThe final image should feel like a professional material specification board for an architecture or interior design client presentation.\n\n**Negative Prompt**\nDo not add materials not visible in the original image, no random color palette, no cheap collage, no exaggerated reflections, no plastic textures, no fake labels, no messy layout, no brand logos.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1106,
+    "title": "Futuristic Neon Blueprint：建筑霓虹蓝图界面",
+    "category": "建筑与空间设计专辑",
+    "prompt": "Create a futuristic neon blueprint visualization based on the uploaded architectural image. Transform the main architectural elements into glowing wireframe geometry with bright cyan and electric-blue contours, while keeping the underlying render softly visible as a darkened realistic base.\nAdd small floating annotations, minimal technical callouts, subtle dimension markers, interface-style overlays, and layered holographic mapping effects around the building. Keep the linework clean, elegant, and architectural. The image should feel like a high-tech spatial analysis interface rather than a chaotic cyberpunk poster.\nPreserve the original building geometry, perspective, landscape elements, and spatial depth. The final image should blend realism with refined holographic blueprint aesthetics.\n**Negative Prompt**\nNo messy cyberpunk city, no excessive glow, no random symbols, no unreadable labels, no over-saturated blue, no distorted building shape, no sci-fi clutter, no aggressive game UI, no fake brand logos.",
+    "imageCount": 3,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1107,
+    "title": "View to Render：曲线混凝土森林住宅",
+    "category": "建筑与空间设计专辑",
+    "prompt": "Convert the uploaded simple architectural viewport image into a photorealistic render of a warm modern gable-roof house. Preserve the original house shape, steep roof angle, large triangular glass facade, window positions, terrace layout, entrance relationship, and surrounding garden composition.\n\nEnhance the design with natural vertical timber cladding, dark metal window frames, gray slate roof, skylights, timber deck, outdoor seating, hanging chair, potted plants, lush green garden, soft morning sunlight, realistic shadows, and clean architectural photography quality. The final image should feel like a premium countryside residence or modern cabin render.\nNegative Promp\nDo not change the roof shape, do not add extra floors, do not distort the triangular facade, do not replace timber with unrelated materials, no fantasy landscape, no excessive decoration, no cartoon style, no fake text.",
+    "imageCount": 5,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1108,
+    "title": "Interior 3Dmax to Render：室内线稿转厨房客厅",
+    "category": "建筑与空间设计专辑",
+    "prompt": "Transform the uploaded interior viewport line drawing into a photorealistic warm contemporary kitchen and living room render. Preserve the original room layout, camera angle, ceiling beam structure, kitchen island position, sofa placement, cabinetry layout, pendant light position, and spatial proportions.\nAdd warm oak wood cabinetry, natural wood ceiling beams, white marble kitchen island and backsplash, soft linen sofa, neutral pillows, warm concealed lighting, daylight from side windows, realistic wooden flooring, subtle fabric textures, and a calm lived-in atmosphere. The final image should look like a premium interior design render with natural materials and soft architectural lighting.\n\n**Negative Prompt**\nDo not change the room layout, do not move the kitchen island, do not distort the sofa, do not add unrelated furniture, no overly glossy surfaces, no luxury palace style, no messy decorations, no cartoon style, no fake text.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1109,
+    "title": "Sketch to Render：曲面玻璃公共建筑",
+    "category": "建筑与空间设计专辑",
+    "prompt": "Transform the uploaded interior line sketch into a photorealistic elegant living room render. Preserve the original tall window position, arched doorway, sofa layout, coffee table position, wall panel details, chandelier location, curtain placement, and camera composition.\n\nEnhance the space with warm cream wall finish, dark wood arched double doors, soft beige linen sofa, round dark wood coffee table, elegant chandelier, full-height curtains, framed botanical artwork, soft winter daylight from the window, layered neutral textiles, and a refined classic contemporary interior atmosphere. The final image should feel calm, luxurious, natural, and professionally styled.\n\nNegative Prompt\nDo not change the arched doorway, do not move the sofa layout, do not add excessive gold decoration, no palace-like exaggeration, no clutter, no cartoon style, no distorted furniture, no unreadable text.",
+    "imageCount": 3,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1110,
+    "title": "Watercolor Sketch to Render：水彩建筑草图转真实建筑照片",
+    "category": "建筑与空间设计专辑",
+    "prompt": "Transform the uploaded watercolor architectural sketch into a photorealistic contemporary museum or public building render. Preserve the original rounded layered massing, sweeping curved concrete bands, recessed horizontal windows, main entrance area, pedestrian scale, street context, and overall camera viewpoint.\n\nEnhance the building with smooth white concrete or plaster surfaces, realistic glass openings, subtle facade weathering, urban sidewalk, reflective wet pavement, small groups of people, soft daylight, natural shadows, and architectural photography realism. Keep the design faithful to the original sketch while making it feel like a real built project.\n\n**Negative Prompt**\nDo not change the rounded layered massing, do not add unrelated towers, do not distort the curved facade, do not overcomplicate the building, no fantasy style, no excessive signage, no messy crowds, no random text, no cartoon look.",
+    "imageCount": 1,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  },
+  {
+    "id": 1111,
+    "title": "室内软装材料图版",
+    "category": "建筑与空间设计专辑",
+    "prompt": "根据底图，生成一张室内设计情绪板，图片中心为底图照片，底图照片给一个白色的描边。在其周边采用网格拼贴形式展示材质与色彩搭配。每个样本附有手绘标注的简洁的标签文字。顶部中央标注房间名称。素材相互堆叠以松散但有序的方式拼贴，部分用胶带固定在浅灰色毛毡板上，模拟真实线索板的手工质感。保证底图占画面中心主要位置。整体画面具有高级感艺术感与真实感。",
+    "imageCount": 39,
+    "sourceLabel": "飞书100组Prompt合集",
+    "sourceUrl": ""
+  }
+]
