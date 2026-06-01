@@ -84,8 +84,8 @@ body{font-family:-apple-system,'Segoe UI',sans-serif;background:var(--bg);color:
   </div>
   <div class="stats" id="stats">加载中…</div>
   <div class="mode-toggle">
-    <button id="btnCase" class="active" onclick="switchMode('case')">🖼️ 案例 (481)</button>
-    <button id="btnTpl" onclick="switchMode('tpl')">📋 模板 (22)</button>
+    <button id="btnCase" class="active" onclick="switchMode('case')">🖼️ 案例</button>
+    <button id="btnTpl" onclick="switchMode('tpl')">📋 模板</button>
   </div>
 </div>
 
@@ -196,6 +196,9 @@ function tScene(s){ return SCENE_ZH[s] || s; }
 
 // ============ Init ============
 function init(){
+  // Update mode button counts dynamically
+  document.getElementById('btnCase').textContent = '🖼️ 案例 (' + ALL_CASES.length + ')';
+  document.getElementById('btnTpl').textContent = '📋 模板 (' + ALL_TEMPLATES.length + ')';
   // Show case-mode filters on initial load (mode defaults to 'case')
   document.getElementById('styleFilterWrap').style.display = 'flex';
   document.getElementById('sceneFilterWrap').style.display = 'flex';
