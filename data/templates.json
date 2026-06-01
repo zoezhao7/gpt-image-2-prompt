@@ -1,0 +1,235 @@
+[
+  {
+    "id": "tpl-001",
+    "title": "信息图/科普百科图",
+    "category": "信息可视化",
+    "description": "生成竖版科普百科信息图，支持人物/植物/动物主题，6-8个知识模块，复古泛黄纸张背景，中心主体3D弹出效果",
+    "prompt": "Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect.\nTask: Generate a highly detailed, extremely intricate, and visually stunning scientific infographic.\nSubject Matter: Choose one from [People, Plants, or Animals].\nKey Visual Requirements:\n1. Lifelike 3D Effect - central subject with dramatic pop-out effect\n2. Layout - 6-8 distinct knowledge modules around the center\n3. Connections - fine leader lines linking all modules\n4. Text & Annotation - MUST be clear Chinese; main title in calligraphy\nStyle: Fine scientific illustration on aged beige paper background.\nAspect Ratio: 3:4.",
+    "variables": [
+      "主题"
+    ]
+  },
+  {
+    "id": "tpl-002",
+    "title": "海报设计模板",
+    "category": "海报设计",
+    "description": "通用海报设计模板，支持国潮、极简、科技等多种风格",
+    "prompt": "Design a high-end poster with elegant composition. Style: [风格]. Theme: [主题]. Include main title, subtitle, and supporting visual elements. Aspect ratio: [比例]. Output: 8K, professional quality.",
+    "variables": [
+      "风格",
+      "主题",
+      "比例"
+    ]
+  },
+  {
+    "id": "tpl-003",
+    "title": "电商详情页/产品展示",
+    "category": "电商设计",
+    "description": "生成电商产品详情图和展示图，支持服装、家电、数码等多种品类",
+    "prompt": "Generate a professional e-commerce product detail image for [产品名称]. Highlight product features, specifications, and use scenarios. Style: clean, modern, high-conversion CTA design. Aspect ratio: [比例].",
+    "variables": [
+      "产品名称",
+      "比例"
+    ]
+  },
+  {
+    "id": "tpl-004",
+    "title": "社交媒体模拟截图",
+    "category": "趣味创意",
+    "description": "生成仿微信朋友圈/微博/抖音/小红书/B站等社交平台的模拟截图，常用于历史人物梗或趣味内容",
+    "prompt": "Generate a screenshot of [平台名称] showing [人物/内容] posting: \"[文案内容]\". Include realistic UI elements like likes, comments, timestamps.",
+    "variables": [
+      "平台名称",
+      "人物/内容",
+      "文案内容"
+    ]
+  },
+  {
+    "id": "tpl-005",
+    "title": "直播模拟截图",
+    "category": "趣味创意",
+    "description": "生成抖音/B站等直播平台的模拟截图，含主播、观众、礼物特效等元素",
+    "prompt": "Generate a screenshot of [平台] live stream. [主播名称] is live streaming, [动作描述], online viewer count is [人数]. Include realistic live stream UI elements.",
+    "variables": [
+      "平台",
+      "主播名称",
+      "动作描述",
+      "人数"
+    ]
+  },
+  {
+    "id": "tpl-006",
+    "title": "电影/游戏海报",
+    "category": "电影海报",
+    "description": "生成商业级电影海报或游戏封面，支持科幻、奇幻、古风等多种题材",
+    "prompt": "Create a [类型] movie/game poster for \"[作品名]\". Style: [风格]. Include title design, key characters, atmospheric background. Professional designer quality, cinematic lighting. Aspect ratio: [比例].",
+    "variables": [
+      "类型",
+      "作品名",
+      "风格",
+      "比例"
+    ]
+  },
+  {
+    "id": "tpl-007",
+    "title": "人像摄影/写真",
+    "category": "人像摄影",
+    "description": "生成高质量人像摄影作品，支持胶片风、日系、韩系、超写实等多种风格",
+    "prompt": "Portrait photography: [主体描述]. Style: [摄影风格]. Lighting: [光线描述]. Composition: [构图描述]. Quality: 8K, realistic skin texture, [比例].",
+    "variables": [
+      "主体描述",
+      "摄影风格",
+      "光线描述",
+      "构图描述",
+      "比例"
+    ]
+  },
+  {
+    "id": "tpl-008",
+    "title": "国风工笔画",
+    "category": "国风插画",
+    "description": "生成中国传统工笔画风格插画，适合人物、场景、趣味创意",
+    "prompt": "A finely detailed Gongbi painting of [主题描述]. Traditional Chinese brushwork, elegant coloring, on rice paper texture. Include a red vertical artist chop seal in the bottom corner. Aspect ratio: [比例].",
+    "variables": [
+      "主题描述",
+      "比例"
+    ]
+  },
+  {
+    "id": "tpl-009",
+    "title": "UI设计系统",
+    "category": "UI设计",
+    "description": "生成完整的UI设计系统，包含网页、移动端、组件等",
+    "prompt": "Generate a complete UI design system in [风格] style for [产品/品牌]. Include web pages, mobile screens, cards, buttons, form controls, navigation. Consistent design language, clean typography, cohesive color palette.",
+    "variables": [
+      "风格",
+      "产品/品牌"
+    ]
+  },
+  {
+    "id": "tpl-010",
+    "title": "像素艺术",
+    "category": "像素艺术",
+    "description": "生成像素风游戏道具、场景等，适合游戏开发和创意设计",
+    "prompt": "Create a pixel art [内容描述] in classic [16-bit/32-bit] style. Crisp pixel edges, limited palette, subtle dithering. Clean background, reminiscent of SNES/GBA-era games.",
+    "variables": [
+      "内容描述",
+      "位深度"
+    ]
+  },
+  {
+    "id": "tpl-011",
+    "title": "二次元/动漫插画",
+    "category": "二次元插画",
+    "description": "生成高质量二次元美少女/角色插画，支持日系、赛博朋克等多种风格",
+    "prompt": "Generate a high-quality anime illustration. Character: [角色设定]. Style: [风格]. Background: [背景描述]. Quality: 8K, ultra-fine details. Aspect ratio: [比例].",
+    "variables": [
+      "角色设定",
+      "风格",
+      "背景描述",
+      "比例"
+    ]
+  },
+  {
+    "id": "tpl-012",
+    "title": "知识图谱/关系图",
+    "category": "信息可视化",
+    "description": "生成文学作品或历史事件的人物关系图、知识图谱",
+    "prompt": "Generate a detailed knowledge graph / character relationship diagram for [主题]. Show clear connections between entities using lines and labels. Include detailed Chinese annotations. Style: organized, professional, easy to read.",
+    "variables": [
+      "主题"
+    ]
+  },
+  {
+    "id": "tpl-013",
+    "title": "字体设计/艺术字",
+    "category": "字体设计",
+    "description": "生成创意艺术字和书法字体设计",
+    "prompt": "Creative typography design for the text \"[文字内容]\". Style: [书法/艺术风格]. Dynamic composition, strong visual impact. Clean background. High contrast.",
+    "variables": [
+      "文字内容",
+      "书法/艺术风格"
+    ]
+  },
+  {
+    "id": "tpl-014",
+    "title": "品牌VI/视觉系统",
+    "category": "品牌VI",
+    "description": "生成完整的品牌视觉识别系统设计",
+    "prompt": "Design a complete VI/visual identity system for [品牌名称], a [品牌描述]. Include logo, color palette, typography, brand elements, and application examples. Style: [风格]. Professional, cohesive, brand guideline quality.",
+    "variables": [
+      "品牌名称",
+      "品牌描述",
+      "风格"
+    ]
+  },
+  {
+    "id": "tpl-015",
+    "title": "图书/杂志封面",
+    "category": "平面设计",
+    "description": "生成图书封面、杂志封面等平面设计",
+    "prompt": "Design a professional book/magazine cover for \"[标题]\". Subtitle: \"[副标题]\". Style: [设计风格]. Include compelling visual elements, clear typography, and professional layout.",
+    "variables": [
+      "标题",
+      "副标题",
+      "设计风格"
+    ]
+  },
+  {
+    "id": "tpl-016",
+    "title": "名画二创/趣味改编",
+    "category": "趣味创意",
+    "description": "对经典名画进行趣味改编，如蒙娜丽莎喝可乐、古代人物用现代产品等",
+    "prompt": "Generate a [原画风格] painting of [原作名称], but [趣味改编描述]. Maintain the original artistic style and composition while incorporating the modern/funny elements.",
+    "variables": [
+      "原画风格",
+      "原作名称",
+      "趣味改编描述"
+    ]
+  },
+  {
+    "id": "tpl-017",
+    "title": "城市主题海报",
+    "category": "海报设计",
+    "description": "生成国潮/极简风格的城市宣传海报，融入城市地标和文化元素",
+    "prompt": "Design a high-end city poster for [城市名称] in [风格] style. Include landmark buildings, cultural elements, flowing composition. Colors: [配色方案]. Aspect ratio: 9:16. 8K quality.",
+    "variables": [
+      "城市名称",
+      "风格",
+      "配色方案"
+    ]
+  },
+  {
+    "id": "tpl-018",
+    "title": "超现实插画",
+    "category": "艺术创意",
+    "description": "生成超现实主义风格的插画，强调大小对比、梦幻氛围",
+    "prompt": "A surrealist digital illustration: [场景描述]. Strong size contrast, ethereal atmosphere, dreamy colors. Detailed rendering, high artistic quality. Aspect ratio: [比例].",
+    "variables": [
+      "场景描述",
+      "比例"
+    ]
+  },
+  {
+    "id": "tpl-019",
+    "title": "文创产品设计",
+    "category": "文创设计",
+    "description": "生成书签、明信片、印章等文创产品设计",
+    "prompt": "Design a set of [产品类型] featuring [主题]. Style: [设计风格]. Professional quality, suitable for production. Include multiple variations.",
+    "variables": [
+      "产品类型",
+      "主题",
+      "设计风格"
+    ]
+  },
+  {
+    "id": "tpl-020",
+    "title": "九宫格/多图拼贴",
+    "category": "图文排版",
+    "description": "生成3×3九宫格拼贴图，适合小红书发布",
+    "prompt": "Generate a 3:4 vertical 3×3 grid poster for [主题]. Nine distinct cards with unified visual style. Clean layout, Chinese text, suitable for social media. Each card complete and independently readable.",
+    "variables": [
+      "主题"
+    ]
+  }
+]

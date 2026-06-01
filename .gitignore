@@ -1,0 +1,14 @@
+# 图片（110MB，太大不上传；HTML 内用 images/ 引用本地图片即可）
+images/
+
+# 旧版文件
+index.html
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统文件
+.DS_Store
+Thumbs.db
