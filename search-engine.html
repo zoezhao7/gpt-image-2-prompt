@@ -123,6 +123,9 @@ body{font-family:-apple-system,'Segoe UI',sans-serif;background:var(--bg);color:
 <div class="main">
   <div class="grid" id="grid"></div>
   <div class="pagination" id="pagination"></div>
+  <div style="text-align:center;padding:16px 0 32px;font-size:11px;color:var(--text2);opacity:.6;">
+    数据来源：<a href="https://github.com/freestylefly/awesome-gpt-image-2/tree/main" target="_blank" rel="noopener" style="color:inherit;">freestylefly/awesome-gpt-image-2</a>
+  </div>
 </div>
 
 <!-- Modal -->
@@ -135,8 +138,12 @@ body{font-family:-apple-system,'Segoe UI',sans-serif;background:var(--bg);color:
     <div class="modal-prompt" id="modalPrompt"></div>
     <div class="modal-actions">
       <button class="btn-copy-lg" id="modalCopyBtn">📋 复制提示词</button>
+      <a id="modalGithubLink" href="#" target="_blank" rel="noopener" class="btn-view" style="text-decoration:none;display:inline-flex;align-items:center;gap:5px;">
+        🔗 查看原始来源
+      </a>
       <button class="btn-view" onclick="closeModal()">关闭</button>
     </div>
+    <div id="modalSource" style="font-size:11px;color:var(--text2);margin-top:10px;text-align:center;opacity:.7;"></div>
   </div>
 </div>
 
@@ -471,6 +478,31 @@ function openModalById(id, mode){
 
   document.getElementById('modalPrompt').textContent = prompt;
   document.getElementById('modalCopyBtn').onclick = function(){ copyText(prompt, this); };
+
+  // Source attribution
+  var githubLink = document.getElementById('modalGithubLink');
+  var sourceDiv = document.getElementById('modalSource');
+  if(item.githubUrl){
+    githubLink.href = item.githubUrl;
+    githubLink.style.display = 'inline-flex';
+  } else {
+    githubLink.style.display = 'none';
+  }
+  if(item.sourceLabel || item.sourceUrl){
+    var srcHtml = '原帖：';
+    if(item.sourceUrl){
+      srcHtml += '<a href="' + escHtml(item.sourceUrl) + '" target="_blank" rel="noopener" style="color:inherit;">'
+        + escHtml(item.sourceLabel || item.sourceUrl) + '</a>';
+    } else {
+      srcHtml += escHtml(item.sourceLabel);
+    }
+    srcHtml += ' · 数据来源：<a href="https://github.com/freestylefly/awesome-gpt-image-2/tree/main" target="_blank" rel="noopener" style="color:inherit;">freestylefly/awesome-gpt-image-2</a>';
+    sourceDiv.innerHTML = srcHtml;
+    sourceDiv.style.display = 'block';
+  } else {
+    sourceDiv.innerHTML = '数据来源：<a href="https://github.com/freestylefly/awesome-gpt-image-2/tree/main" target="_blank" rel="noopener" style="color:inherit;">freestylefly/awesome-gpt-image-2</a>';
+    sourceDiv.style.display = 'block';
+  }
 
   document.getElementById('modal').style.display = 'flex';
 }
